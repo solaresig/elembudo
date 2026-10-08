@@ -1,0 +1,2654 @@
+denominacion,status,posicion,status2,posic2,n
+academico,NA,academi,NA,profesor,5519
+profesor asignatura b,asign,prof,hora/clase,profesor,4036
+d profesor asociado c tiempo completo,asoc,prof,asociado/interino,profesor,3829
+profesor asignatura a,asign,prof,hora/clase,profesor,3253
+profesor asignatura a es df,asign,prof,hora/clase,profesor,2535
+e,NA,e,NA,profesor,2086
+jefe de departamento,NA,jefe de departament,NA,administrativo,1842
+i investigador asociado c tiempo completo,asoc,inv,asociado/interino,investigador,1838
+docente,NA,docen,NA,profesor,1497
+administrativo,NA,adminis,NA,administrativo,1378
+coordinador,NA,coordinador,NA,administrativo,1347
+profesor investigador,NA,prof,NA,investigador,1213
+d profesor titular a tiempo completo,tit,prof,titular,profesor,936
+profesor asignatura,asign,prof,hora/clase,profesor,933
+profesor de asignatura,asign,prof,hora/clase,profesor,895
+investigador titular c,tit,inv,titular,investigador,880
+profesor por horas b,NA,prof,hora/clase,profesor,868
+i tecnico academico asociado c tiempo completo,asoc,tecnic,asociado/interino,tecnico,840
+i tecnico academico titular a tiempo completo,tit,tecnic,titular,tecnico,704
+prof e inv asociado b,asoc,prof,asociado/interino,investigador,703
+prof e inv titular a,tit,prof,titular,investigador,699
+docente investigador hora clase de asociado c,asoc,docen,hora/clase,investigador,638
+medico especialista a,NA,medico,NA,profesor,624
+prof invest asociadoa,asoc,prof,asociado/interino,investigador,595
+profesor asignatura b es df,asign,prof,hora/clase,profesor,589
+d tecnico academico asociado c tiempo completo,asoc,tecnic,asociado/interino,tecnico,582
+profesor de asignatura b,asign,prof,hora/clase,profesor,570
+prof e inv asociado a,asoc,prof,asociado/interino,investigador,537
+d tecnico academico titular a tiempo completo,tit,tecnic,titular,tecnico,523
+profesor asignatura a ems df,asign,prof,hora/clase,profesor,519
+investigador a titular c,tit,inv,titular,investigador,516
+prof invest asociado,asoc,prof,asociado/interino,investigador,509
+jefe de seccion academica,NA,academi,NA,administrativo,453
+i investigador titular a tiempo completo,tit,inv,titular,investigador,437
+prof e inv asociado c,asoc,prof,asociado/interino,investigador,409
+profesora de asignatura,asign,prof,hora/clase,profesor,406
+profesor de asignatura de ensenanza superior a,asign,prof,hora/clase,profesor,374
+profesora asignatura a es df,asign,prof,hora/clase,profesor,365
+prof invest titular,tit,prof,titular,investigador,356
+investigador en ciencias medicas c,NA,inv,NA,investigador,345
+tec academico asociado a,asoc,academi,asociado/interino,tecnico,345
+profesor titular c es tc df,tit,prof,titular,profesor,338
+docente investigador tiempo completo titular c,tit,docen,titular,investigador,326
+jefea de departamento,NA,jefea de departament,NA,administrativo,324
+tec docente asistente,asist,docen,asistente,profesor,317
+d profesor asociado b tiempo completo,asoc,prof,asociado/interino,profesor,309
+profesor asociado c,asoc,prof,asociado/interino,profesor,306
+profesor,NA,prof,NA,profesor,298
+investigador titular a,tit,inv,titular,investigador,295
+secretario tecnico,NA,secreta,NA,administrativo,293
+investigador titular b,tit,inv,titular,investigador,290
+profesor de asignatura a,asign,prof,hora/clase,profesor,286
+profesor asignatura a es for,asign,prof,hora/clase,profesor,282
+ia,NA,ia,asistente,investigador,281
+profesor de carrera hlibre hsm zona centro y sur,NA,prof,carrera,profesor,273
+auxiliar administrativo d,NA,adminis,asistente,administrativo,272
+docente investigador hora clase asociado c,asoc,docen,hora/clase,investigador,271
+profesor de asignatura b hsm,asign,prof,hora/clase,profesor,264
+jefe de unidad coord carrera,NA,jefe de unidad coord carrera,NA,administrativo,257
+coordinador de carrera,NA,coordinador,NA,administrativo,247
+i tecnico academico titular b tiempo completo,tit,tecnic,titular,tecnico,240
+profesor por horas a,NA,prof,hora/clase,profesor,239
+profesor asociado a,asoc,prof,asociado/interino,profesor,224
+jefatura de departamento,NA,jefatura de departa,NA,administrativo,222
+investigador a,NA,inv,NA,investigador,214
+jefe de apoyo tecnico,NA,tecnic,asistente,tecnico,211
+profesora asignatura,asign,prof,hora/clase,profesor,211
+director de area,NA,director,NA,administrativo,209
+profesor auxiliar,NA,prof,asistente,profesor,208
+investigador asociado c,asoc,inv,asociado/interino,investigador,206
+d tecnico academico asociado b tiempo completo,asoc,tecnic,asociado/interino,tecnico,204
+profesor titular a,tit,prof,titular,profesor,204
+prof e investigador tc asociado c,asoc,prof,asociado/interino,investigador,198
+profesor investigador de tiempo completo,NA,prof,carrera,investigador,198
+profesor de tiempo completo,NA,prof,carrera,profesor,197
+docente investigador hora clase asociado a,asoc,docen,hora/clase,investigador,195
+profesor asignatura b ems df,asign,prof,hora/clase,profesor,194
+tecnico administrativo e,NA,tecnic,NA,administrativo,191
+d tecnico academico titular b tiempo completo,tit,tecnic,titular,tecnico,183
+profesor asociado,asoc,prof,asociado/interino,profesor,182
+d tecnico academico asociado a tiempo completo,asoc,tecnic,asociado/interino,tecnico,181
+secretario academico,NA,secreta,NA,funcionario,179
+profesor de ensenanzas artisticas y musicales,NA,prof,NA,profesor,176
+prof e investigador tc titular a,tit,prof,titular,investigador,175
+ip,NA,ip,NA,investigador,173
+profesor a de asignatura a,asign,prof,hora/clase,profesor,168
+profesor de carrera d zona centro y sur,NA,prof,carrera,profesor,162
+tecnico c,NA,tecnic,NA,tecnico,162
+profesor a de asignatura b,asign,prof,hora/clase,profesor,158
+subdirectora de area,NA,subdire,NA,administrativo,157
+profesor tc asociado c,asoc,prof,asociado/interino,profesor,154
+profesor asociado b,asoc,prof,asociado/interino,profesor,152
+d profesor titular b tiempo completo,tit,prof,titular,profesor,151
+bibliotecario c,NA,biblio,NA,tecnico,150
+tec academico asociado b,asoc,academi,asociado/interino,tecnico,149
+d profesor titular c tiempo completo,tit,prof,titular,profesor,148
+docente curricular,NA,docen,NA,profesor,145
+investigadora titular c,tit,inv,titular,investigador,145
+director,NA,director,NA,administrativo,140
+investigador en ciencias medicas b,NA,inv,NA,investigador,139
+catedratico c tc,NA,cated,carrera,profesor,135
+coordinador de area a,NA,coordinador,NA,administrativo,133
+subdirector de area,NA,subdire,NA,administrativo,131
+prof asignatura a es del inba,asign,prof,hora/clase,profesor,130
+prof asignatura b es del inba,asign,prof,hora/clase,profesor,130
+profesor titular c es tc for,tit,prof,titular,profesor,130
+it,NA,it,titular,investigador,127
+tecnico docente asignatura a es df,asign,tecnic,hora/clase,tecnico,124
+prof e inv titular b,tit,prof,titular,investigador,120
+profesor por asignatura,asign,prof,hora/clase,profesor,118
+coordinador de posgrado c,NA,coordinador,NA,administrativo,117
+profesor de carrera hlibre hsm zona norte,NA,prof,carrera,profesor,115
+profesora de asignatura b,asign,prof,hora/clase,profesor,113
+docente de tiempo completo,NA,docen,carrera,profesor,112
+tecnicoa medio c,NA,tecnic,medio tiempo,tecnico,110
+jefe de apoyo administrativo,NA,adminis,asistente,administrativo,108
+secretario c,NA,secreta,NA,administrativo,108
+soporte administrativo b incluyente y no sexista,NA,adminis,asistente,administrativo,108
+medico especialista c,NA,medico,NA,profesor,106
+profesor titular,tit,prof,titular,profesor,106
+jefe de departamento en area medica a,NA,jefe de departament,NA,administrativo,104
+prof de ensenanzas artist postprimaria df,NA,prof,NA,profesor,101
+coordinador jefe de area,NA,coordinador,NA,administrativo,99
+abogado auxiliar,NA,abogad,asistente,administrativo,98
+d tecnico academico titular c tiempo completo,tit,tecnic,titular,tecnico,98
+docente de asignatura,asign,docen,hora/clase,profesor,97
+jefe de unidad academica,NA,academi,NA,administrativo,97
+investigador en ciencias medicas d,NA,inv,NA,investigador,96
+profesor de carrera de ensenanza superior asociado a de tiempo completo,asoc,prof,asociado/interino,profesor,96
+subdirector,NA,subdire,NA,administrativo,96
+tecnico a,NA,tecnic,NA,tecnico,95
+docente investigador medio tiempo asociado c,asoc,docen,medio tiempo,investigador,94
+docente investigador tiempo completo titular a,tit,docen,titular,investigador,94
+profesor asociado c es tc df,asoc,prof,asociado/interino,profesor,94
+profesor de asignatura de ensenanza superior b,asign,prof,hora/clase,profesor,94
+profesor titular a es tc df,tit,prof,titular,profesor,94
+prof e inves tit c tc,tit,prof,titular,investigador,92
+medico general a,NA,medico,NA,profesor,91
+jefe de carrera,NA,jefe de carrera,NA,administrativo,90
+docente investigador tiempo completo asociado c,asoc,docen,asociado/interino,investigador,89
+investigadora en ciencias medicas c,NA,inv,NA,investigador,88
+directora de area,NA,director,NA,administrativo,86
+prof e inv titular c,tit,prof,titular,investigador,86
+tec academico asistente c,asist,academi,asistente,tecnico,86
+catedratico c tiempo completo,NA,cated,carrera,profesor,85
+jefe de departamento de unidad academica,NA,jefe de departament,NA,administrativo,84
+tecnico de coordinacion,NA,tecnic,NA,tecnico,84
+administrativo de apoyo,NA,adminis,asistente,administrativo,83
+is,NA,is,NA,investigador,83
+profesor de tiempo completo asociado c,asoc,prof,asociado/interino,profesor,83
+i tecnico academico asociado b tiempo completo,asoc,tecnic,asociado/interino,tecnico,82
+profesor titular b es tc df,tit,prof,titular,profesor,82
+d profesor asociado c medio tiempo,asoc,prof,medio tiempo,profesor,80
+profesora de tiempo completo,NA,prof,carrera,profesor,80
+profesor a investigador a titular c,tit,prof,titular,investigador,78
+profesora investigadora de carrera asociado a,asoc,prof,asociado/interino,investigador,78
+tecnico cb i,NA,tecnic,NA,tecnico,78
+jefe a de departamento,NA,jefe a de departament,NA,administrativo,76
+profesor de asignatura de ensenanza media superior a,asign,prof,hora/clase,profesor,76
+analista especializado nm,NA,analista,NA,administrativo,75
+i tecnico academico titular c tiempo completo,tit,tecnic,titular,tecnico,75
+secretario de escuela,NA,secreta,NA,administrativo,75
+docente investigador tiempo completo titular b,tit,docen,titular,investigador,74
+asistencia tecnica,asist,tecnic,asistente,tecnico,72
+investigador a titular b,tit,inv,titular,investigador,72
+tecnico laboratorista a,NA,tecnic,NA,tecnico,72
+docente hs,NA,docen,NA,profesor,71
+profesor asignatura b hsm,asign,prof,hora/clase,profesor,71
+docente asignatura a,asign,docen,hora/clase,profesor,69
+medico residente er,NA,medico,NA,profesor,69
+profesor titular c ems tc df,tit,prof,titular,profesor,69
+oficinista de servicios escolares c,NA,escola,NA,administrativo,68
+profesor a de asignatura,asign,prof,hora/clase,profesor,68
+tecnico academico asociado a,asoc,tecnic,asociado/interino,tecnico,68
+profesora,NA,prof,NA,profesor,67
+docente c tiempo completo,NA,docen,carrera,profesor,66
+investigador a en ciencias medicas c,NA,inv,NA,investigador,66
+investigador asociado b,asoc,inv,asociado/interino,investigador,66
+personal academico profesional tiempo completo titular c,tit,academi,titular,profesor,66
+medico especialista b,NA,medico,NA,profesor,65
+profesor asociado c es tc for,asoc,prof,asociado/interino,profesor,65
+profesora asignatura a ems df,asign,prof,hora/clase,profesor,65
+tecnico academico,NA,tecnic,NA,tecnico,65
+coordinadora,NA,coordinador,NA,administrativo,64
+profesor asociado b es tc df,asoc,prof,asociado/interino,profesor,63
+director general,NA,director,NA,administrativo,62
+profesor a,NA,prof,NA,profesor,62
+prof e inv asistente c,asist,prof,asistente,investigador,61
+profesor titular tc a,tit,prof,titular,profesor,61
+analista tecnico,NA,analista,NA,administrativo,60
+docente investigador hora clase de asociado a,asoc,docen,hora/clase,investigador,59
+personal academico profesional hora clase asociado a,asoc,academi,hora/clase,profesor,59
+coordinador de gestion,NA,coordinador,NA,administrativo,58
+d profesor asociado b medio tiempo,asoc,prof,medio tiempo,profesor,58
+medico residente de o grado,NA,medico,NA,profesor,58
+profesor de asignatura de ensenanza media superior c,asign,prof,hora/clase,profesor,58
+i investigador titular b tiempo completo,tit,inv,titular,investigador,56
+investigador asociado a,asoc,inv,asociado/interino,investigador,56
+investigador titular a investigadora titular a,tit,inv,titular,investigador,56
+bibliotecario,NA,biblio,NA,tecnico,55
+docentes,NA,docen,NA,profesor,55
+i tecnico academico asociado a tiempo completo,asoc,tecnic,asociado/interino,tecnico,55
+profesionista titulado c,tit,prof,titular,administrativo,55
+profesora asociado c,asoc,prof,asociado/interino,profesor,55
+ayudante de director,ayud,director,asistente,administrativo,54
+prof titular c es del inba tiempo,tit,prof,titular,profesor,54
+profesor asignatura b es for,asign,prof,hora/clase,profesor,54
+tec academico asociado c,asoc,academi,asociado/interino,tecnico,54
+tecnico titular a personal tecnico titular a,tit,tecnic,titular,tecnico,54
+d profesor asociado a tiempo completo,asoc,prof,asociado/interino,profesor,53
+investigador en ciencias medicas a,NA,inv,NA,investigador,53
+medico a especialista a,NA,medico,NA,profesor,53
+medicomedica especialista a,NA,medico,NA,profesor,53
+persona coordinador de estudios,NA,coordinador,NA,administrativo,53
+prof e inves tit tc b,tit,prof,titular,investigador,53
+profesionista a,NA,prof,NA,administrativo,53
+coordinador con grado,NA,coordinador,NA,administrativo,52
+catedratica c tc,NA,cated,carrera,profesor,51
+investigador,NA,inv,NA,investigador,51
+profesora asignatura b es df,asign,prof,hora/clase,profesor,51
+profesora titular a,tit,prof,titular,profesor,51
+profesora titular c es tc df,tit,prof,titular,profesor,51
+analista especializado,NA,analista,NA,administrativo,50
+profesor asociado c es mt df,asoc,prof,medio tiempo,profesor,50
+secretario b,NA,secreta,NA,administrativo,50
+asistente academico admvo,asist,academi,asistente,profesor,49
+investigador en ciencias med c,NA,inv,NA,investigador,49
+persona tecnico academico titular,tit,tecnic,titular,tecnico,49
+"profesor asignatura,tecnico academico hora laborada",asign,prof,hora/clase,profesor,49
+secretario acadadmvoinves,NA,secreta,NA,administrativo,49
+analista b,NA,analista,NA,administrativo,48
+docente investigador medio tiempo titular c,tit,docen,medio tiempo,investigador,48
+profesional administrativo b,NA,prof,NA,profesor,48
+profesor asignatura a ems for,asign,prof,hora/clase,profesor,48
+profesor asociado a es tc df,asoc,prof,asociado/interino,profesor,48
+d profesor titular a medio tiempo,tit,prof,medio tiempo,profesor,47
+jefa de departamento,NA,jefa de departa,NA,administrativo,47
+apoyo academicoadministrativo l hora clase de funcionario,NA,academi,hora/clase,administrativo,46
+inv en cienc med c,NA,inv,NA,investigador,46
+prof e inves tit tc c,tit,prof,titular,investigador,46
+profesor de asignatura mx,asign,prof,hora/clase,profesor,46
+profesor de carrera g zona centro y sur,NA,prof,carrera,profesor,46
+profesor de tiempo completo a,NA,prof,carrera,profesor,46
+investigador a titular a,tit,inv,titular,investigador,45
+profesor asociado b es mt df,asoc,prof,medio tiempo,profesor,45
+profesor titular b,tit,prof,titular,profesor,45
+profesora por asignatura,asign,prof,hora/clase,profesor,45
+soporte administrativo c,NA,adminis,asistente,administrativo,45
+profesor a investigador a titular a,tit,prof,titular,investigador,44
+profesor titular a es tc for,tit,prof,titular,profesor,44
+supervisor tecnico,NA,tecnic,NA,tecnico,44
+director a de area,NA,director,NA,administrativo,43
+profesor titular b es tc for,tit,prof,titular,profesor,43
+analista c,NA,analista,NA,administrativo,42
+asistente tecnico,asist,tecnic,asistente,tecnico,42
+profesor asociado a es tc for,asoc,prof,asociado/interino,profesor,42
+profesora asignatura a es for,asign,prof,hora/clase,profesor,42
+subdirector a de area,NA,subdire,NA,administrativo,42
+analista de sistemas y procesos a,NA,analista,NA,administrativo,41
+analista tecnico n m,NA,analista,NA,administrativo,41
+coordinador de modulo de escue,NA,coordinador,NA,administrativo,41
+profesor asociado a es mt df,asoc,prof,medio tiempo,profesor,41
+apoyo academicoadministrativo n hora clase de funcionario,NA,academi,hora/clase,administrativo,40
+auxiliar academico,NA,academi,asistente,profesor,39
+bibliotecario cm,NA,biblio,NA,tecnico,39
+i investigador titular c tiempo completo,tit,inv,titular,investigador,39
+jefe de area administrativa y tecnica b,NA,adminis,NA,administrativo,39
+profesor a investigador a titular b,tit,prof,titular,investigador,39
+profesor de carrera de ensenanza superior asociado c de tiempo completo,asoc,prof,asociado/interino,profesor,39
+profesora investigadora de tiempo completo,NA,prof,carrera,investigador,39
+secretaria de unidad academica,NA,secreta,NA,profesor,39
+investigadora en ciencias medicas d,NA,inv,NA,investigador,38
+medico residente do,NA,medico,NA,profesor,38
+personal academico profesional hora clase de asociado c,asoc,academi,hora/clase,profesor,38
+profesionista titulado a,tit,prof,titular,administrativo,38
+ptc asociado c,asoc,ptc,asociado/interino,profesor,38
+ayudante de investigador en ciencias medicas c,ayud,inv,asistente,investigador,36
+directora,NA,director,NA,administrativo,36
+docente c medio tiempo,NA,docen,medio tiempo,profesor,36
+ingeniero biomedico,NA,medico,NA,profesor,36
+medico residente to,NA,medico,NA,profesor,36
+profesionista b,NA,prof,NA,administrativo,36
+profesor a investigador a asociado a b,asoc,prof,asociado/interino,investigador,36
+coordinador academico a,NA,coordinador,NA,administrativo,35
+docente hsx,NA,docen,NA,profesor,35
+profesor de carrera de ensenanza superior titular c de tiempo completo,tit,prof,titular,profesor,35
+profesor titular tc b,tit,prof,titular,profesor,35
+tec academico asistente b,asist,academi,asistente,tecnico,35
+tecnico,NA,tecnic,NA,tecnico,35
+tecnico personal tecnico,NA,tecnic,NA,tecnico,35
+asistente administrativo,asist,adminis,asistente,administrativo,34
+coordinador administrativo,NA,coordinador,NA,administrativo,34
+prof inv titular a,tit,prof,titular,investigador,34
+profesora investigadora ingenieroa tecnologoa titular a,tit,prof,titular,investigador,34
+asesor tecnico a,NA,tecnic,NA,tecnico,33
+bibliotecario a,NA,biblio,NA,tecnico,33
+coordinador a,NA,coordinador,NA,administrativo,33
+investigador g,NA,inv,NA,investigador,33
+profesor de asignatura nivel b,asign,prof,hora/clase,profesor,33
+subdirector a de area o,NA,subdire,NA,administrativo,33
+subdirector administrativo,NA,subdire,NA,administrativo,33
+ayudante de invest en ciencias medicas c,ayud,inv,asistente,investigador,32
+catedratico b tiempo completo,NA,cated,carrera,profesor,32
+jefe de departamento a,NA,jefe de departament,NA,administrativo,32
+prof e inves tit b tc,tit,prof,titular,investigador,32
+prof e investig asoc c tc,asoc,prof,asociado/interino,investigador,32
+profesor a de ayudante de asignatura b,ayud,prof,asistente,profesor,32
+"profesor asignatura,soporte academico",asign,prof,hora/clase,profesor,32
+profesor de carrera de ensenanza superior asociado d de tiempo completo,asoc,prof,asociado/interino,profesor,32
+tecnicoa medio a,NA,tecnic,medio tiempo,tecnico,32
+asistente de investigacion,asist,inv,asistente,investigador,31
+especialista tecnico a,NA,tecnic,NA,tecnico,31
+jefe de area administrativa y tecnica a,NA,adminis,NA,administrativo,31
+profesor investigador titular a de tiempo completo,tit,prof,titular,investigador,31
+profesor titular a es mt df,tit,prof,medio tiempo,profesor,31
+secretario de division academ,NA,secreta,NA,profesor,31
+secretario general,NA,secreta,NA,administrativo,31
+tec academico titular a,tit,academi,titular,tecnico,31
+catedratico b tc,NA,cated,carrera,profesor,30
+medico residente cuarto grado,NA,medico,NA,profesor,30
+medico residente tercer grado,NA,medico,NA,profesor,30
+profesor de carrera de ensenanza superior asociado a de medio tiempo,asoc,prof,medio tiempo,profesor,30
+profesor investigador asociado d de tiempo completo,asoc,prof,asociado/interino,investigador,30
+profesor tiempo parcial a,NA,prof,hora/clase,profesor,30
+profesor titular c ems df,tit,prof,titular,profesor,30
+profesor titular c ems mt df,tit,prof,medio tiempo,profesor,30
+profesora investigadora ingenieroa tecnologoa titular c,tit,prof,titular,investigador,30
+tecnico cm,NA,tecnic,NA,tecnico,30
+tecnico especializado,NA,tecnic,NA,tecnico,30
+tecnico profesional c,NA,tecnic,NA,tecnico,30
+tecnicoa superior,NA,tecnic,NA,tecnico,30
+director de division,NA,director,NA,funcionario,29
+profesionista c,NA,prof,NA,administrativo,29
+profesor de carrera d zona norte,NA,prof,carrera,profesor,29
+profesor de carrera de ensenanza superior titular a de tiempo completo,tit,prof,titular,profesor,29
+profesor investigador asociado a de tiempo completo,asoc,prof,asociado/interino,investigador,29
+tecnico b,NA,tecnic,NA,tecnico,29
+coordinador paramedico en area normativa a,NA,coordinador,NA,tecnico,28
+investigadorinvestigadora en ciencias medicas c,NA,inv,NA,investigador,28
+jefe unidadcoord carrera,NA,jefe unidadcoord carrera,NA,administrativo,28
+subcoordinadora,NA,coordinador,NA,administrativo,28
+asistente administrativo a,asist,adminis,asistente,administrativo,27
+docente asignatura b,asign,docen,hora/clase,profesor,27
+docente investigador tiempo completo asociado a,asoc,docen,asociado/interino,investigador,27
+jefe de area departamento,NA,jefe de area departament,NA,administrativo,27
+jefe de departamento c,NA,jefe de departament,NA,administrativo,27
+jefea de departamento en area medica a,NA,jefea de departament,NA,administrativo,27
+personal academico profesional medio tiempo titular c,tit,academi,medio tiempo,profesor,27
+profesor a por asignatura,asign,prof,hora/clase,profesor,27
+profesor de carrera de ensenanza superior asociado b de tiempo completo,asoc,prof,asociado/interino,profesor,27
+profesor titular tc c,tit,prof,titular,profesor,27
+profesora tiempo completo,NA,prof,carrera,profesor,27
+profesora titular c es tc for,tit,prof,titular,profesor,27
+director academico de facultad,NA,director,NA,funcionario,26
+personal academico profesional hora clase asociado c,asoc,academi,hora/clase,profesor,26
+prof inv tc asociado c,asoc,prof,asociado/interino,investigador,26
+profesor e investigador titular a,tit,prof,titular,investigador,26
+profesor tiempo completo,NA,prof,carrera,profesor,26
+profesora de asignatura b hsm,asign,prof,hora/clase,profesor,26
+profesora investigadora,NA,prof,NA,investigador,26
+tecnico docente asignatura a ems df,asign,tecnic,hora/clase,tecnico,26
+analista especializado a c,NA,analista,NA,administrativo,25
+analista n m,NA,analista,NA,administrativo,25
+auxiliar ejecutivo profesionista c,NA,prof,asistente,administrativo,25
+ayudante de investigadora en ciencias medicas c,ayud,inv,asistente,investigador,25
+docente investigador hora clase asociado b,asoc,docen,hora/clase,investigador,25
+fisico medico,NA,medico,NA,profesor,25
+jefe de biblioteca c,NA,biblio,NA,tecnico,25
+personal academico profesional tiempo completo titular a,tit,academi,titular,profesor,25
+profesionista titulado b,tit,prof,titular,administrativo,25
+profesor investigador titula a,tit,prof,titular,investigador,25
+profesor titular c es df,tit,prof,titular,profesor,25
+subcoordinador,NA,coordinador,NA,administrativo,25
+subdirector academico,NA,subdire,NA,funcionario,25
+tecnico b fam ai,NA,tecnic,NA,tecnico,25
+tecnico docente asociado b es tc df,asoc,tecnic,asociado/interino,tecnico,25
+tecnicoa academicoa c con horas,NA,tecnic,hora/clase,tecnico,25
+coordinador b,NA,coordinador,NA,administrativo,24
+investigador titular c tiempo completo,tit,inv,titular,investigador,24
+medico residente de r grado,NA,medico,NA,profesor,24
+oficinista de servicios escolares b,NA,escola,NA,profesor,24
+profesor de asignatura nivel a,asign,prof,hora/clase,profesor,24
+profesora tc asociado c,asoc,prof,asociado/interino,profesor,24
+ptcaso c,NA,ptc,carrera,profesor,24
+tecnico academico b,NA,tecnic,NA,tecnico,24
+tecnico titular c,tit,tecnic,titular,tecnico,24
+analista administrativo,NA,analista,NA,administrativo,23
+asistente especializado secretarial,asist,secreta,asistente,administrativo,23
+coordinador academico c,NA,coordinador,NA,administrativo,23
+coordinador c,NA,coordinador,NA,administrativo,23
+director de dependencia,NA,director,NA,funcionario,23
+investigadora en ciencias medicas b,NA,inv,NA,investigador,23
+profesor asignatura a hsm,asign,prof,hora/clase,profesor,23
+profesor titular b es df,tit,prof,titular,profesor,23
+profesoraprofesor de tiempo completo,NA,prof,carrera,profesor,23
+subdirector departamento,NA,subdire,NA,administrativo,23
+tecnicoa especializadoa a,NA,tecnic,NA,tecnico,23
+biblioteconomo a,NA,biblio,NA,tecnico,22
+coordinador de area c,NA,coordinador,NA,administrativo,22
+investigador a fam i,NA,inv,NA,investigador,22
+investigador d,NA,inv,NA,investigador,22
+medico residente quinto grado,NA,medico,NA,profesor,22
+medico residente segundo grado,NA,medico,NA,profesor,22
+prof e inv asistente b,asist,prof,asistente,investigador,22
+prof e investigador asoc a,asoc,prof,asociado/interino,investigador,22
+profesional administrativo a,NA,prof,NA,profesor,22
+profesor investigador auxiliar,NA,prof,asistente,investigador,22
+subdireccion de area,NA,subdire,NA,administrativo,22
+subdirectora academica,NA,subdire,NA,funcionario,22
+tecnico academico asociado c,asoc,tecnic,asociado/interino,tecnico,22
+tecnico academico titular b,tit,tecnic,titular,tecnico,22
+administrativo d,NA,adminis,NA,administrativo,21
+asesora tecnica a,NA,tecnic,NA,tecnico,21
+coordinador academico,NA,coordinador,NA,administrativo,21
+coordinador de biblioteca,NA,coordinador,NA,tecnico,21
+director admvo central,NA,director,NA,administrativo,21
+investigadora titular b,tit,inv,titular,investigador,21
+jefea de departamento en area medica b,NA,jefea de departament,NA,administrativo,21
+prof de asignatura b,asign,prof,hora/clase,profesor,21
+prof titular c es del inba tiempo completo,tit,prof,titular,profesor,21
+profesor de asignatura hsm,asign,prof,hora/clase,profesor,21
+profesor de carrera de ensenanza superior titular b de tiempo completo,tit,prof,titular,profesor,21
+profesora asociado c incluyente y no sexista,asoc,prof,asociado/interino,profesor,21
+profesora de asignatura a,asign,prof,hora/clase,profesor,21
+profesora de ayudante de asignatura b,ayud,prof,asistente,profesor,21
+tecnico academico a,NA,tecnic,NA,tecnico,21
+tecnico academico hora laborada,NA,tecnic,hora/clase,tecnico,21
+administrativo f,NA,adminis,NA,administrativo,20
+analista a,NA,analista,NA,administrativo,20
+director de facultad,NA,director,NA,funcionario,20
+docente hrs,NA,docen,hora/clase,profesor,20
+investigador a en ciencias medicas d,NA,inv,NA,investigador,20
+persona asesor tecnico,NA,tecnic,NA,tecnico,20
+profesor a asignatura a,asign,prof,hora/clase,profesor,20
+profesor asociado b es tc for,asoc,prof,asociado/interino,profesor,20
+profesor asociado c ems for,asoc,prof,asociado/interino,profesor,20
+profesor asociado tc c,asoc,prof,asociado/interino,profesor,20
+profesor investigador tc asociado c,asoc,prof,asociado/interino,investigador,20
+profesor investigador titula b,tit,prof,titular,investigador,20
+profesor titular a es df,tit,prof,titular,profesor,20
+profesora asignatura a,asign,prof,hora/clase,profesor,20
+tecnico academico titular,tit,tecnic,titular,tecnico,20
+auxiliar ejecutivo profesionista d,NA,prof,asistente,administrativo,19
+director a,NA,director,NA,administrativo,19
+jefe administrativo,NA,adminis,NA,administrativo,19
+medico residente to grado,NA,medico,NA,profesor,19
+prof e investigador asocc,asoc,prof,asociado/interino,investigador,19
+profesor de carrera h zona centro y sur,NA,prof,carrera,profesor,19
+profesor investigador asociado b de tiempo completo,asoc,prof,asociado/interino,investigador,19
+profesora de tiempo completo asociado c,asoc,prof,asociado/interino,profesor,19
+secretaria a nivel ii,NA,secreta,NA,administrativo,19
+secretario administrativo,NA,secreta,NA,administrativo,19
+tecnico academico c tiempo completo,NA,tecnic,carrera,tecnico,19
+administrativo b,NA,adminis,NA,administrativo,18
+ayudante de invest en ciencias medicas b,ayud,inv,asistente,investigador,18
+d tecnico academico auxiliar c medio tiempo,NA,tecnic,medio tiempo,tecnico,18
+direccion de area,NA,direc,NA,administrativo,18
+investigador a en ciencias medicas b,NA,inv,NA,investigador,18
+investigador en ciencias med b,NA,inv,NA,investigador,18
+investigador h,NA,inv,NA,investigador,18
+jefe de depto admvo a,NA,jefe de depto,NA,administrativo,18
+jefe del departamento de evaluacion profesional,NA,jefe del departament,NA,administrativo,18
+medico general,NA,medico,NA,profesor,18
+medico residente primer grado,NA,medico,NA,profesor,18
+persona jefe de depto academico,NA,academi,NA,administrativo,18
+prof e investigador tit a,tit,prof,titular,investigador,18
+profesional tiempo completo sbase,NA,prof,titular,profesor,18
+profesor a investigador a asociado a a,asoc,prof,asociado/interino,investigador,18
+profesor de carrera de ensenanza superior asociado c de medio tiempo,asoc,prof,medio tiempo,profesor,18
+profesor titular b es mt df,tit,prof,medio tiempo,profesor,18
+profesora asociado a,asoc,prof,asociado/interino,profesor,18
+profesora investigadora ingenieroa tecnologoa titular b,tit,prof,titular,investigador,18
+profesora titular c df tc,tit,prof,titular,profesor,18
+tecnico laboratorista,NA,tecnic,NA,tecnico,18
+analista,NA,analista,NA,administrativo,17
+analista de sistemas y procesos b,NA,analista,NA,administrativo,17
+d tecnico academico auxiliar b tiempo completo,NA,tecnic,asistente,tecnico,17
+director de escuela,NA,director,NA,funcionario,17
+docente investigador medio tiempo titular a,tit,docen,medio tiempo,investigador,17
+oficial administrativo a nivel ii,NA,adminis,NA,administrativo,17
+oficinista de servicios escolares a,NA,escola,NA,administrativo,17
+profesionista,NA,prof,NA,administrativo,17
+profesor asociado a es df,asoc,prof,asociado/interino,profesor,17
+profesor de carrera e zona centro y sur,NA,prof,carrera,profesor,17
+profesor de tiempo completo asociado a,asoc,prof,asociado/interino,profesor,17
+profesora de tiempo completo a,NA,prof,carrera,profesor,17
+profesora titular b,tit,prof,titular,profesor,17
+ptc tit b,tit,ptc,titular,profesor,17
+responsable administrativo,NA,adminis,NA,administrativo,17
+subdirector a,NA,subdire,NA,administrativo,17
+subdirectora,NA,subdire,NA,administrativo,17
+tecnico administrativo especializado,NA,tecnic,NA,tecnico,17
+tecnico especializado de laboratorio b,NA,tecnic,NA,tecnico,17
+actividades de docencia,NA,docen,NA,profesor,16
+administrativo asignadopr b,asign,adminis,hora/clase,administrativo,16
+analista administrativo d,NA,analista,NA,administrativo,16
+analista de informacion,NA,analista,NA,administrativo,16
+asistente de funcionario,asist,funcionario,asistente,administrativo,16
+coordinador area b,NA,coordinador,NA,administrativo,16
+coordinador de programa,NA,coordinador,NA,administrativo,16
+director administrativo,NA,director,NA,administrativo,16
+director con grado,NA,director,NA,administrativo,16
+docente investigador medio tiempo titular b,tit,docen,medio tiempo,investigador,16
+investigador tecnico titular b tiempo completo,tit,inv,titular,investigador,16
+investigador titular c tiempo,tit,inv,titular,investigador,16
+investigadora en ciencias medicas a,NA,inv,NA,investigador,16
+jefe de depto admvo c,NA,jefe de depto,NA,administrativo,16
+profesional administrativo f,NA,prof,NA,profesor,16
+profesional en el area de salud,NA,prof,NA,profesor,16
+profesor asociado b ems mt df,asoc,prof,medio tiempo,profesor,16
+profesor titular a ems mt df,tit,prof,medio tiempo,profesor,16
+profesora asignatura b,asign,prof,hora/clase,profesor,16
+"profesora asignatura,soporte academica",asign,prof,hora/clase,profesor,16
+secretario de division,NA,secreta,NA,administrativo,16
+tecnico titular c personal tecnico titular c,tit,tecnic,titular,tecnico,16
+apoyo academicoadministrativo l tiempo completo funcionario,NA,academi,asistente,administrativo,15
+asistente de jefe de departamento,asist,jefe de departament,asistente,administrativo,15
+auxiliar ejecutivo profesionista a,NA,prof,asistente,administrativo,15
+docente por asignatura hrs,asign,docen,hora/clase,profesor,15
+invest en ciencias medicas c,NA,inv,NA,investigador,15
+investigador a asociado c,asoc,inv,asociado/interino,investigador,15
+investigador j,NA,inv,NA,investigador,15
+profesor a asociado a,asoc,prof,asociado/interino,profesor,15
+profesor a asociado c,asoc,prof,asociado/interino,profesor,15
+profesor asociado mt c,asoc,prof,medio tiempo,profesor,15
+profesor investigador titular a,tit,prof,titular,investigador,15
+profesor investigador titular c de tiempo completo,tit,prof,titular,investigador,15
+"profesora asignatura,tecnica academica hora laborada",asign,prof,hora/clase,profesor,15
+profesora investigadora ingenieroa tecnologoa asociadoa c,asoc,prof,asociado/interino,investigador,15
+secretario a de direccion de area,NA,secreta,NA,administrativo,15
+soporte academico,NA,academi,NA,administrativo,15
+tecnica docente asignatura a es df,asign,tecnic,hora/clase,tecnico,15
+tecnico a fam ai,NA,tecnic,NA,tecnico,15
+tecnico academ asociado a tc,asoc,tecnic,asociado/interino,tecnico,15
+tecnico academico de tiempo completo,NA,tecnic,carrera,tecnico,15
+tecnico academico tc asociado a,asoc,tecnic,asociado/interino,tecnico,15
+tecnico de apoyo de investigacion,NA,tecnic,asistente,tecnico,15
+tecnico docente asociado b es tc for,asoc,tecnic,asociado/interino,tecnico,15
+tecnico superior,NA,tecnic,NA,tecnico,15
+analista especializado a a,NA,analista,NA,administrativo,14
+asistenca tecnica,asist,tecnic,asistente,tecnico,14
+auxiliar de investigador a,NA,inv,asistente,investigador,14
+coordinador de difusion cultural,NA,coordinador,NA,administrativo,14
+director academico de escuela,NA,director,NA,funcionario,14
+directora general adjuntoa,NA,director,NA,administrativo,14
+investigador c,NA,inv,NA,investigador,14
+jefe de division de estudios de posgrado,NA,estudio,NA,administrativo,14
+jefea de departamento c,NA,jefea de departament,NA,administrativo,14
+medico a especialista c,NA,medico,NA,profesor,14
+medico a residente to grado,NA,medico,NA,profesor,14
+prof asociado a es del inba tiempo,asoc,prof,asociado/interino,profesor,14
+prof e investig tit a tc,tit,prof,titular,investigador,14
+profesional esp nivel maximo tiempo completo nivel,NA,prof,carrera,profesor,14
+profesor a de asignatura hsm,asign,prof,hora/clase,profesor,14
+profesor a de tiempo completo a,NA,prof,carrera,profesor,14
+"profesor asignatura,supervisor tecnico",asign,prof,hora/clase,profesor,14
+profesor asociado a ems tc for,asoc,prof,asociado/interino,profesor,14
+profesor asociado tc b,asoc,prof,asociado/interino,profesor,14
+profesor de asignatura de ensenanza media superior b,asign,prof,hora/clase,profesor,14
+profesor de carrera de ensenanza superior asociado b de medio tiempo,asoc,prof,medio tiempo,profesor,14
+profesor de carrera f zona centro y sur,NA,prof,carrera,profesor,14
+profesor investigador titula c,tit,prof,titular,investigador,14
+profesor por horas c,NA,prof,hora/clase,profesor,14
+profesora de tiempo completo asociado a,asoc,prof,asociado/interino,profesor,14
+profr asig b,NA,prof,hora/clase,profesor,14
+ptc asociado a,asoc,ptc,asociado/interino,profesor,14
+soporte administrativo d,NA,adminis,NA,administrativo,14
+tecnica academica hora laborada,NA,tecnic,hora/clase,tecnico,14
+tecnica de apoyo de investigacion,NA,tecnic,asistente,tecnico,14
+analista especializado a b,NA,analista,NA,administrativo,13
+analista tecnico a,NA,analista,NA,administrativo,13
+coord admvo unidad academica,NA,academi,NA,profesor,13
+directora de dependencia,NA,director,NA,funcionario,13
+docente hsm,NA,docen,NA,profesor,13
+ejecutor administrativo b,NA,adminis,NA,administrativo,13
+gestor administrativo c,NA,adminis,NA,administrativo,13
+investigador e,NA,inv,NA,investigador,13
+jefe de departamento ameda,NA,jefe de departament,NA,administrativo,13
+medicoa especialista a,NA,medico,NA,profesor,13
+personal academico profesional tiempo completo asociado a,asoc,academi,asociado/interino,profesor,13
+prof e investigador tit b,tit,prof,titular,investigador,13
+prof e investigador tit c,tit,prof,titular,investigador,13
+profesionista titulado e,tit,prof,titular,administrativo,13
+profesor a investigador a de carrera,NA,prof,carrera,investigador,13
+profesor a titular a,tit,prof,titular,profesor,13
+profesor asociado mi,asoc,prof,asociado/interino,profesor,13
+profesor asociado tc a,asoc,prof,asociado/interino,profesor,13
+profesor o profesora por asignatura,asign,prof,hora/clase,profesor,13
+profesor tiempo completo asociado c,asoc,prof,asociado/interino,profesor,13
+profesor titular c df tc,tit,prof,titular,profesor,13
+profesora asociado b,asoc,prof,asociado/interino,profesor,13
+profesora de asignatura b incluyente y no sexista,asign,prof,hora/clase,profesor,13
+profesora titular c,tit,prof,titular,profesor,13
+subjefe de departamento,NA,jefe de departament,NA,administrativo,13
+tecnico academico asociado b,asoc,tecnic,asociado/interino,tecnico,13
+tecnico docente asignatura a es for,asign,tecnic,hora/clase,tecnico,13
+terapista profesional en rehabilitacion,NA,prof,NA,profesor,13
+abogado general,NA,abogad,NA,administrativo,12
+adjunto de investigacion,NA,inv,NA,investigador,12
+administrador,NA,adminis,NA,administrativo,12
+analista de estudios profes,NA,analista,NA,administrativo,12
+analista programador a,NA,analista,NA,administrativo,12
+asistente de jefe de area administrativa del patrimonio cultural,asist,adminis,asistente,administrativo,12
+auxiliar de investigador c,NA,inv,asistente,investigador,12
+ayudante de investigador,ayud,inv,asistente,investigador,12
+catedratica b tc,NA,cated,carrera,profesor,12
+coordacademico,NA,academi,NA,profesor,12
+coordinador de extension y vinculacion,NA,coordinador,NA,administrativo,12
+coordinador general,NA,coordinador,NA,administrativo,12
+encargado administrativo a,NA,adminis,NA,administrativo,12
+inv en cienc med b,NA,inv,NA,investigador,12
+investigador tecnico titular b de tiempo,tit,inv,titular,investigador,12
+jefe de departamento b,NA,jefe de departament,NA,administrativo,12
+jefe de departamento de unidad de fomento y desarrollo empresarial,NA,jefe de departament,NA,administrativo,12
+prof asociado c es del inba tiempo,asoc,prof,asociado/interino,profesor,12
+prof inv asociado c,asoc,prof,asociado/interino,investigador,12
+profesional en comunicacion humana,NA,prof,NA,profesor,12
+profesor asociado b ems tc for,asoc,prof,asociado/interino,profesor,12
+profesor asociado c ems mt for,asoc,prof,medio tiempo,profesor,12
+profesor titular c es mt df,tit,prof,medio tiempo,profesor,12
+profesora asignatura b ems df,asign,prof,hora/clase,profesor,12
+profesora asociado c es tc df,asoc,prof,asociado/interino,profesor,12
+profesora titular a es tc df,tit,prof,titular,profesor,12
+profesora titular b es tc df,tit,prof,titular,profesor,12
+profesorado por asignatura a,asign,prof,hora/clase,profesor,12
+subjefe de departamento a,NA,jefe de departament,NA,administrativo,12
+supervisor a tecnico,NA,tecnic,NA,tecnico,12
+tecnico de investigacion,NA,tecnic,NA,tecnico,12
+tecnico titular a es tc for,tit,tecnic,titular,tecnico,12
+tecnico titular b personal tecnico titular b,tit,tecnic,titular,tecnico,12
+administrador a,NA,adminis,NA,administrativo,11
+analista superior,NA,analista,NA,administrativo,11
+apoyo academicoadministrativo n hora clase funcionario,NA,academi,hora/clase,administrativo,11
+auxiliar bibliotecario,NA,biblio,asistente,tecnico,11
+auxiliar ejecutivo profesionista,NA,prof,asistente,administrativo,11
+bibliotecario b,NA,biblio,NA,tecnico,11
+coordinador de seccion administrativa y recursos materiales,NA,coordinador,NA,administrativo,11
+d tecnico academico asociado a medio tiempo,asoc,tecnic,medio tiempo,tecnico,11
+director de centro de educacion artistica,NA,director,NA,funcionario,11
+director de programa educativo,NA,director,NA,funcionario,11
+facilitador educativo tc a,NA,facilitador educativo,carrera,profesor,11
+investigadora,NA,inv,NA,investigador,11
+maestro investigador titular a,maest,inv,titular,investigador,11
+prof e investigador tc titular c,tit,prof,titular,investigador,11
+profesor de asignatura a hrs,asign,prof,hora/clase,profesor,11
+profesor de carrera g zona norte,NA,prof,carrera,profesor,11
+profesor de tiempo completo asoc c,asoc,prof,asociado/interino,profesor,11
+profesor de tiempo completo asociado b,asoc,prof,asociado/interino,profesor,11
+profesor de tiempo completo b,NA,prof,carrera,profesor,11
+profesor investigador asociado c,asoc,prof,asociado/interino,investigador,11
+profesor investigador nivel a,NA,prof,NA,investigador,11
+profesor titular b ems tc df,tit,prof,titular,profesor,11
+profesor titular c,tit,prof,titular,profesor,11
+profesora titular c ems tc df,tit,prof,titular,profesor,11
+subcoordinador nivel tiempo completo funcionario,NA,coordinador,NA,administrativo,11
+subdirector con grado,NA,subdire,NA,administrativo,11
+tec academico titular c,tit,academi,titular,tecnico,11
+tecnica titular c,tit,tecnic,titular,tecnico,11
+tecnicatecnico titular c,tit,tecnic,titular,tecnico,11
+tecnico academico e,NA,tecnic,NA,tecnico,11
+tecnico d,NA,tecnic,NA,tecnico,11
+tecnico docente asociado b,asoc,tecnic,asociado/interino,tecnico,11
+tecnicoa especializadoa b,NA,tecnic,NA,tecnico,11
+analista de sist admvos,NA,analista,NA,administrativo,10
+analista tecnico especializado,NA,analista,NA,administrativo,10
+coordinador academico b,NA,coordinador,NA,administrativo,10
+"coordinador academico de apoyo a la docencia,profesor investigador de tiempo completo",NA,coordinador,NA,administrativo,10
+"coordinador academico hora laborada,profesor asignatura",asign,coordinador,hora/clase,profesor,10
+d tecnico academico asociado c medio tiempo,asoc,tecnic,medio tiempo,tecnico,10
+d tecnico academico auxiliar b medio tiempo,NA,tecnic,medio tiempo,tecnico,10
+director de programa academico,NA,director,NA,funcionario,10
+especialista administrativo a,NA,adminis,NA,administrativo,10
+especialista tecnico b,NA,tecnic,NA,tecnico,10
+investigador analista de sistemas e informatica,NA,inv,NA,investigador,10
+investigadora titular a,tit,inv,titular,investigador,10
+jefe de departamento en area medica b,NA,jefe de departament,NA,administrativo,10
+jefe de depto am a,NA,jefe de depto,NA,administrativo,10
+jefe de secc depto lab o tall,NA,jefe de secc depto,NA,administrativo,10
+jefe unidad administrativa,NA,adminis,NA,administrativo,10
+maestro investigador asoc c,maest,inv,asociado/interino,investigador,10
+personal academico profesional hora clase de asociado a,asoc,academi,hora/clase,profesor,10
+personal academico profesional medio tiempo titular a,tit,academi,medio tiempo,profesor,10
+personal academico profesional tiempo completo asociado c,asoc,academi,asociado/interino,profesor,10
+profesionista en gestion del pat cult a,NA,prof,NA,administrativo,10
+profesionista titulado d,tit,prof,titular,administrativo,10
+profesor a asigb determinado,NA,prof,hora/clase,profesor,10
+profesor a de apoyo tecnico academico,NA,prof,asistente,profesor,10
+profesor asignatura a y b,asign,prof,hora/clase,profesor,10
+profesor asignatura b ems for,asign,prof,hora/clase,profesor,10
+profesor asociado mt a,asoc,prof,medio tiempo,profesor,10
+profesor titular mt a,tit,prof,medio tiempo,profesor,10
+profesora asignatura a df,asign,prof,hora/clase,profesor,10
+profesora titular b df tc,tit,prof,titular,profesor,10
+profesorado por asignatura b,asign,prof,hora/clase,profesor,10
+secretaria de subdirector,NA,secreta,NA,administrativo,10
+secretaria general,NA,secreta,NA,administrativo,10
+secretario academico de facultad a,NA,secreta,NA,profesor,10
+secretario academico de instituto b,NA,secreta,NA,profesor,10
+tecnica titular b,tit,tecnic,titular,tecnico,10
+tecnico academico c,NA,tecnic,NA,tecnico,10
+tecnico academico c tc,NA,tecnic,carrera,tecnico,10
+tecnico administrativo en gestoria,NA,tecnic,NA,tecnico,10
+tecnico docente asociado a es tc for,asoc,tecnic,asociado/interino,tecnico,10
+tecnico radiologo o en radioterapia,NA,tecnic,NA,tecnico,10
+abogado,NA,abogad,NA,administrativo,9
+asistente academico c,asist,academi,asistente,profesor,9
+auxiliar de investigador b,NA,inv,asistente,investigador,9
+auxiliar ejecutivo profesionista b,NA,prof,asistente,administrativo,9
+bibliotecario tiempo completo sbase,NA,biblio,titular,tecnico,9
+catedratico a tiempo completo,NA,cated,carrera,profesor,9
+coordinador admnistrativo secretario administrativo,NA,coordinador,NA,administrativo,9
+coordinador de area b,NA,coordinador,NA,administrativo,9
+coordinador de estudios,NA,coordinador,NA,administrativo,9
+coordinador de investigacion,NA,coordinador,NA,administrativo,9
+coordinador de trayectoria,NA,coordinador,NA,administrativo,9
+direccion academica,NA,direc,NA,funcionario,9
+directora general,NA,director,NA,funcionario,9
+invest en ciencias medicas b,NA,inv,NA,investigador,9
+investigador b fam i,NA,inv,NA,investigador,9
+jefa e de departamento,NA,jefa e de departa,NA,administrativo,9
+jefe administrativo cm,NA,adminis,NA,administrativo,9
+medico residente iv,NA,medico,NA,profesor,9
+oficinista de servicios escolares cm,NA,escola,NA,administrativo,9
+personal investigador,NA,inv,NA,investigador,9
+prof titular a es del inba tiempo completo,tit,prof,titular,profesor,9
+profesional administrativo c,NA,prof,NA,profesor,9
+profesional tecnico a,NA,prof,NA,profesor,9
+profesionista con estudios de posgrado c,NA,prof,NA,administrativo,9
+profesor a asociado b,asoc,prof,asociado/interino,profesor,9
+profesor a tiempo completo asoc c,asoc,prof,asociado/interino,profesor,9
+profesor a tiempo completo titular a,tit,prof,titular,profesor,9
+profesor asignatura a df,asign,prof,hora/clase,profesor,9
+profesor asociado a ems mt df,asoc,prof,medio tiempo,profesor,9
+profesor investigador de tiempo completo a,NA,prof,carrera,investigador,9
+profesor ptc titular a,tit,prof,titular,profesor,9
+profesora investigadora extraordinarioa asociado a,asoc,prof,asociado/interino,investigador,9
+profesora titular a es tc for,tit,prof,titular,profesor,9
+ptc titular a,tit,ptc,titular,profesor,9
+revisor tecnico,NA,tecnic,NA,tecnico,9
+sec de facultad jefe de departamento,NA,jefe de departament,NA,administrativo,9
+secretario academico de facultad,NA,secreta,NA,profesor,9
+subdirector de escuela artistica profesional,NA,subdire,NA,funcionario,9
+subdirector de unidad academica,NA,subdire,NA,funcionario,9
+tec en fabric de aparat y equip de inv c,NA,inv,NA,investigador,9
+tecnica,NA,tecnic,NA,tecnico,9
+tecnica titular a,tit,tecnic,titular,tecnico,9
+tecnico analista,NA,tecnic,NA,tecnico,9
+tecnico de foros a en tramoya,NA,tecnic,NA,tecnico,9
+tecnico e,NA,tecnic,NA,tecnico,9
+tecnicoa academicoa a,NA,tecnic,NA,tecnico,9
+tecnicotecnica titular c,tit,tecnic,titular,tecnico,9
+administrador ejecutivo c,NA,adminis,NA,administrativo,8
+analista de sistemas n m,NA,analista,NA,administrativo,8
+analista de sistemas y procesos c,NA,analista,NA,administrativo,8
+analista sist profb,NA,analista,NA,administrativo,8
+apoyo academicoadministrativo l hora clase funcionario,NA,academi,hora/clase,administrativo,8
+apoyo academicoadministrativo l medio tiempo funcionario,NA,academi,medio tiempo,administrativo,8
+asesoria profesional en procesos institucionales,NA,prof,NA,profesor,8
+asistente administrativo b,asist,adminis,asistente,administrativo,8
+ayudante de investigador en ciencias med c,ayud,inv,asistente,investigador,8
+ayudante invest ciencias med b,ayud,inv,asistente,investigador,8
+coordinador academico de escue,NA,coordinador,NA,administrativo,8
+coordinador de programa educativo de ciencias biomedicas,NA,coordinador,NA,administrativo,8
+coordinadora de investigacion,NA,coordinador,NA,administrativo,8
+d profesor titular c medio tiempo,tit,prof,medio tiempo,profesor,8
+d tecnico academico auxiliar c tiempo completo,NA,tecnic,asistente,tecnico,8
+d tecnico academico titular a medio tiempo,tit,tecnic,medio tiempo,tecnico,8
+director de esc o instituto,NA,director,NA,funcionario,8
+director tecnico administrativo,NA,director,NA,administrativo,8
+investigador a g,NA,inv,NA,investigador,8
+investigador a h,NA,inv,NA,investigador,8
+jefa del departamento de evaluacion profesional,NA,jefa del departa,NA,administrativo,8
+jefe de departamento de escuela artistica profesional,NA,jefe de departament,NA,administrativo,8
+jefe de depto a,NA,jefe de depto,NA,administrativo,8
+jefe de seccion de acreditacion de estudios,NA,estudio,NA,administrativo,8
+maestro investigador titular b,maest,inv,titular,investigador,8
+maestro investigador titular c,maest,inv,titular,investigador,8
+persona jefe de depto administrativo,NA,adminis,NA,administrativo,8
+profesor a de asignatura b hsm,asign,prof,hora/clase,profesor,8
+profesor asignatura a con hrs,asign,prof,hora/clase,profesor,8
+profesor asociado a con hrs,asoc,prof,hora/clase,profesor,8
+profesor de asignatura c,asign,prof,hora/clase,profesor,8
+profesor de carrera de ensenanza superior asociado d de medio tiempo,asoc,prof,medio tiempo,profesor,8
+profesor de carrera h zona norte,NA,prof,carrera,profesor,8
+profesor tc titular b,tit,prof,titular,profesor,8
+profesor tiempo completo a,NA,prof,carrera,profesor,8
+profesor tiempo completo b,NA,prof,carrera,profesor,8
+profesor titular a df tc,tit,prof,titular,profesor,8
+profesor titular b ems mt df,tit,prof,medio tiempo,profesor,8
+profesora asignatura a ems for,asign,prof,hora/clase,profesor,8
+profesora asociada c,asoc,prof,asociado/interino,profesor,8
+profesora asociado a es tc df,asoc,prof,asociado/interino,profesor,8
+secretario academico de escuela a,NA,secreta,NA,profesor,8
+subdirector general,NA,subdire,NA,administrativo,8
+tec academico asistente a,asist,academi,asistente,tecnico,8
+tec academico titular b,tit,academi,titular,tecnico,8
+tecnico asociado c personal tecnico asociado c,asoc,tecnic,asociado/interino,tecnico,8
+tecnico cb ii,NA,tecnic,NA,tecnico,8
+tecnico especializado de laboratorio a,NA,tecnic,NA,tecnico,8
+tecnico laboratorista b,NA,tecnic,NA,tecnico,8
+tecnico titular b,tit,tecnic,titular,tecnico,8
+tecnicoa asociado c,asoc,tecnic,asociado/interino,tecnico,8
+tecnicoa laboratorista a,NA,tecnic,NA,tecnico,8
+actividades administrativas,NA,adminis,NA,administrativo,7
+adjunta de investigacion,NA,inv,NA,investigador,7
+administrador de tecnologias de informacion c,NA,adminis,NA,administrativo,7
+administrativo a,NA,adminis,NA,administrativo,7
+asesor tecnico,NA,tecnic,NA,tecnico,7
+asesor tecnico b,NA,tecnic,NA,tecnico,7
+ayudante de invest en ciencias medicas c incluyente y no sexista,ayud,inv,asistente,investigador,7
+ayudante de investigacion en ciencias medicas c,ayud,inv,asistente,investigador,7
+ayudantea de invest en ciencias medicas b,ayud,inv,asistente,investigador,7
+coordinador administrativosupervisor de bibliotecas,NA,coordinador,NA,administrativo,7
+coordinador de area,NA,coordinador,NA,administrativo,7
+coordinador de centro de investigacion artistica,NA,coordinador,NA,administrativo,7
+coordinador de departamento a,NA,coordinador,NA,administrativo,7
+coordinador de planeacion,NA,coordinador,NA,administrativo,7
+"coordinadora academica de apoyo a la docencia,profesora investigadora de tiempo completo",NA,coordinador,NA,administrativo,7
+"coordinadora academica hora laborada,profesora asignatura",asign,coordinador,hora/clase,profesor,7
+coordinadora de planeacion,NA,coordinador,NA,administrativo,7
+direccion de vinculacion,NA,direc,NA,funcionario,7
+director a coordinador b,NA,director,NA,administrativo,7
+director academico,NA,director,NA,funcionario,7
+docente de asignatura c,asign,docen,hora/clase,profesor,7
+ejecutor administrativo,NA,adminis,NA,administrativo,7
+ejecutor administrativo a,NA,adminis,NA,administrativo,7
+especialista administrativo c,NA,adminis,NA,administrativo,7
+facilitador educativo,NA,facilitador educativo,NA,profesor,7
+inv ciencias med a,NA,inv,NA,investigador,7
+inv ciencias med b,NA,inv,NA,investigador,7
+invest en ciencias med a,NA,inv,NA,investigador,7
+invest en ciencias med b,NA,inv,NA,investigador,7
+investigador analista,NA,inv,NA,investigador,7
+investigador en ciencias med d,NA,inv,NA,investigador,7
+investigador en ciencias medicas f,NA,inv,NA,investigador,7
+jefa de area administrativa y tecnica a,NA,adminis,NA,administrativo,7
+jefa de area administrativa y tecnica b,NA,adminis,NA,administrativo,7
+jefe d departamento academico,NA,jefe d departament,NA,administrativo,7
+jefe de departamento academico de investigacion y posgrado,NA,jefe de departament,NA,administrativo,7
+jefe de departamento administracion central,NA,jefe de departament,NA,administrativo,7
+medico,NA,medico,NA,profesor,7
+medico especialistaa,NA,medico,NA,profesor,7
+medico residente iii,NA,medico,NA,profesor,7
+medicomedica residente de o grado,NA,medico,NA,profesor,7
+persona coordinador administrativo,NA,coordinador,NA,administrativo,7
+personal academico profesional tiempo completo titular b,tit,academi,titular,profesor,7
+prof e investigador tc asociado a,asoc,prof,asociado/interino,investigador,7
+profesional ejecutivo,NA,prof,NA,profesor,7
+profesional tiempo completo nivel,NA,prof,carrera,profesor,7
+profesor asociado mt b,asoc,prof,medio tiempo,profesor,7
+profesor de hora libre a hrs,NA,prof,hora/clase,profesor,7
+profesor de tiempo completo titular a,tit,prof,titular,profesor,7
+profesor encargado con funciones de tiempo completo nivel b,NA,prof,carrera,profesor,7
+profesor investigador asociado b,asoc,prof,asociado/interino,investigador,7
+profesor o profesora de tiempo completo,NA,prof,carrera,profesor,7
+profesor titular a ems for,tit,prof,titular,profesor,7
+profesora asignatura b df,asign,prof,hora/clase,profesor,7
+profesora titular b es tc for,tit,prof,titular,profesor,7
+profesoraprofesor de tiempo completo b,NA,prof,carrera,profesor,7
+responsable de programa hora clase de funcionario,NA,funcionario,hora/clase,profesor,7
+secretario de coord general,NA,secreta,NA,administrativo,7
+soporte academica,NA,academi,NA,profesor,7
+"soporte academico,tecnico academico hora laborada",NA,academi,hora/clase,administrativo,7
+subcoordinador nivel b tiempo completo funcionario,NA,coordinador,NA,administrativo,7
+subdirector de escuela o instituto,NA,subdire,NA,funcionario,7
+supervisor medico en area normativa,NA,medico,NA,profesor,7
+supervisora tecnica,NA,tecnic,NA,tecnico,7
+tecnico academico hora clase asociado c,asoc,tecnic,hora/clase,tecnico,7
+tecnico academico tc asociado c,asoc,tecnic,asociado/interino,tecnico,7
+tecnico academico tc titular a,tit,tecnic,titular,tecnico,7
+tecnico asociado b,asoc,tecnic,asociado/interino,tecnico,7
+tecnico profesional b,NA,tecnic,NA,tecnico,7
+tecnico quimico c,NA,tecnic,NA,tecnico,7
+tecnicoa laboratorista b,NA,tecnic,NA,tecnico,7
+administrativoa de area a,NA,adminis,NA,administrativo,6
+analista de procesos y proyect,NA,analista,NA,administrativo,6
+analista de servic y sist esc,NA,analista,NA,administrativo,6
+analista tecnico b fam gn,NA,analista,NA,administrativo,6
+asistente academico b,asist,academi,asistente,profesor,6
+asistente administrativo d,asist,adminis,asistente,administrativo,6
+auxiliar academico administrativo,NA,academi,asistente,administrativo,6
+auxiliar docente yo investigador hora clase de asociado c,asoc,docen,hora/clase,investigador,6
+ayudante de invest en ciencias medicas a,ayud,inv,asistente,investigador,6
+bibliotecario nivel iv,NA,biblio,NA,tecnico,6
+coordinador academico n s,NA,coordinador,NA,administrativo,6
+coordinador de departamento b,NA,coordinador,NA,administrativo,6
+director administrativo a,NA,director,NA,administrativo,6
+director de area a,NA,director,NA,funcionario,6
+director de instituto,NA,director,NA,funcionario,6
+director general a,NA,director,NA,funcionario,6
+directora academica,NA,director,NA,funcionario,6
+docente asociado b,asoc,docen,asociado/interino,profesor,6
+ejecutivo profesionista e,NA,prof,NA,administrativo,6
+ejecutor administrativo c,NA,adminis,NA,administrativo,6
+eventual administrativo g,NA,adminis,hora/clase,administrativo,6
+facilitador a educativo a tc a,NA,facilitador a educativo,carrera,profesor,6
+i investigador titular b medio tiempo,tit,inv,medio tiempo,investigador,6
+ingenieroingeniera biomedico,NA,medico,NA,profesor,6
+inv ciencias med c,NA,inv,NA,investigador,6
+investigador a d,NA,inv,NA,investigador,6
+investigador a en ciencias medicas a,NA,inv,NA,investigador,6
+investigador asociado c investigadora asociado c,asoc,inv,asociado/interino,investigador,6
+investigador asociado c tiempo completo,asoc,inv,asociado/interino,investigador,6
+investigador consultor c,NA,inv,NA,investigador,6
+investigador titular b investigadora titular b,tit,inv,titular,investigador,6
+investigadorainvestigador asociada o c,asoc,inv,asociado/interino,investigador,6
+investigadorinvestigadora asociado a c,asoc,inv,asociado/interino,investigador,6
+jefe a de departamento en area medica a,NA,jefe a de departament,NA,administrativo,6
+"jefe de area hora laborada,profesor asignatura",asign,prof,hora/clase,profesor,6
+jefe de division de carrera,NA,jefe de division de carrera,NA,administrativo,6
+"jefe de unidad de apoyo a la docencia,profesor asignatura",asign,docen,hora/clase,profesor,6
+jefejefa de departamento en area medica a,NA,jefejefa de departament,NA,administrativo,6
+medicoa especialista c,NA,medico,NA,profesor,6
+medicoa general a,NA,medico,NA,profesor,6
+persona apoyo administrativo en saluda,NA,adminis,asistente,administrativo,6
+persona asistente admvo de director de divsecretario acad,asist,director,asistente,administrativo,6
+persona director administrativo admvo,NA,director,NA,administrativo,6
+personal academico profesional medio tiempo asociado a,asoc,academi,medio tiempo,profesor,6
+personal profesionista,NA,prof,NA,administrativo,6
+pfof e investig tit b tc,tit,inv,titular,investigador,6
+prof e inves tit mt b,tit,prof,medio tiempo,investigador,6
+prof e inves tit tc a,tit,prof,titular,investigador,6
+prof titular b es del inba tiempo,tit,prof,titular,profesor,6
+prof titular b es del inba tiempo completo,tit,prof,titular,profesor,6
+prof titular c es del inba de tiempo,tit,prof,titular,profesor,6
+profesional,NA,prof,NA,profesor,6
+profesional administrativo d,NA,prof,NA,profesor,6
+profesional administrativo e,NA,prof,NA,profesor,6
+profesional esp nivel maximo tiempo completo sbase,NA,prof,titular,profesor,6
+profesionista pasante a,NA,prof,NA,administrativo,6
+profesor adjunto,NA,prof,NA,profesor,6
+profesor asig a hsm,NA,prof,hora/clase,profesor,6
+profesor asociado c es df,asoc,prof,asociado/interino,profesor,6
+profesor asociado c es for,asoc,prof,asociado/interino,profesor,6
+profesor asociado mt,asoc,prof,medio tiempo,profesor,6
+profesor de apoyo,NA,prof,asistente,profesor,6
+profesor de asignatura honorarios,asign,prof,hora/clase,profesor,6
+profesor de ensenanza secundaria,NA,prof,NA,profesor,6
+profesor investigador asocia c,asoc,prof,asociado/interino,investigador,6
+profesor investigador de tiempo completo b,NA,prof,carrera,investigador,6
+"profesor investigador de tiempo completo,secretario academico de facultad o escuela",NA,prof,NA,funcionario,6
+"profesor investigador de tiempo completo,secretario escolar de facultad o escuela",NA,prof,carrera,investigador,6
+profesor titula a,tit,prof,titular,profesor,6
+profesor titular a es for,tit,prof,titular,profesor,6
+profesor titular b ems df,tit,prof,titular,profesor,6
+profesora asociada c ems tc for,asoc,prof,asociado/interino,profesor,6
+profesora asociado b es tc df,asoc,prof,asociado/interino,profesor,6
+profesora asociadoa mi,asoc,prof,asociado/interino,profesor,6
+profesora de tiempo completo asociado b,asoc,prof,asociado/interino,profesor,6
+profesora de tiempo completo titular b,tit,prof,titular,profesor,6
+profesora investigadora asociado c,asoc,prof,asociado/interino,investigador,6
+profesora investigadora de carrera asociado b,asoc,prof,asociado/interino,investigador,6
+profesora investigadora ingenieroa tecnologoa asociado c,asoc,prof,asociado/interino,investigador,6
+profesora o profesor de tiempo completo b,NA,prof,carrera,profesor,6
+profesora tc asociada c,asoc,prof,asociado/interino,profesor,6
+revisora tecnicoa especializadoa,NA,tecnic,NA,tecnico,6
+subdireccion,NA,subdire,NA,administrativo,6
+subdirector a de area n,NA,subdire,NA,administrativo,6
+subdirector de educacion artistica inicial,NA,subdire,NA,funcionario,6
+tecnica academica de tiempo completo,NA,tecnic,carrera,tecnico,6
+tecnico academico titular a,tit,tecnic,titular,tecnico,6
+tecnico administrativo c,NA,tecnic,NA,tecnico,6
+tecnico asociado b personal tecnico asociado b,asoc,tecnic,asociado/interino,tecnico,6
+tecnico de guarderia,NA,tecnic,NA,tecnico,6
+tecnico de laboratorio de ing,NA,tecnic,NA,tecnico,6
+tecnico docente,NA,tecnic,NA,tecnico,6
+tecnico docente asociado c es tc for,asoc,tecnic,asociado/interino,tecnico,6
+tecnico en electrodiagnostico,NA,tecnic,NA,tecnico,6
+tecnico en informatica,NA,tecnic,NA,tecnico,6
+tecnico especializado de laboratorio c,NA,tecnic,NA,tecnico,6
+tecnico titular a,tit,tecnic,titular,tecnico,6
+tecnicoa de apoyo,NA,tecnic,asistente,tecnico,6
+tecnicoa medio b,NA,tecnic,medio tiempo,tecnico,6
+administradora,NA,adminis,NA,administrativo,5
+analista d mant d laboratorios,NA,analista,NA,administrativo,5
+analista de proyectos,NA,analista,NA,administrativo,5
+apoyo academicoadministrativo n medio tiempo funcionario,NA,academi,medio tiempo,administrativo,5
+asistente de depto academico,asist,academi,asistente,profesor,5
+asistente de investigador,asist,inv,asistente,investigador,5
+asistente de tecnico especializado en promocion cultural,asist,tecnic,asistente,tecnico,5
+biblioteconomo b,NA,biblio,NA,tecnico,5
+coordinador administrativo administracion central,NA,coordinador,NA,administrativo,5
+coordinador general c,NA,coordinador,NA,administrativo,5
+coordinadora estatal,NA,coordinador,NA,administrativo,5
+d tecnico academico auxiliar a medio tiempo,NA,tecnic,medio tiempo,tecnico,5
+director academico de facultad a,NA,director,NA,funcionario,5
+director de area c,NA,director,NA,funcionario,5
+director de educacion artistica inicial,NA,director,NA,funcionario,5
+docente asociado a,asoc,docen,asociado/interino,profesor,5
+docente investigador hora clase de asociado b,asoc,docen,hora/clase,investigador,5
+docente titular a,tit,docen,titular,profesor,5
+especialista administrativo d,NA,adminis,NA,administrativo,5
+eventual administrativo d,NA,adminis,hora/clase,administrativo,5
+eventual administrativo e,NA,adminis,hora/clase,administrativo,5
+eventual administrativo f,NA,adminis,hora/clase,administrativo,5
+eventual administrativo h,NA,adminis,hora/clase,administrativo,5
+eventual tecnico d,NA,tecnic,hora/clase,tecnico,5
+i investigador asociado b tiempo completo,asoc,inv,asociado/interino,investigador,5
+investigador a asociado b,asoc,inv,asociado/interino,investigador,5
+investigador en ciencias medicas e,NA,inv,NA,investigador,5
+investigadora en ciencias medicas f,NA,inv,NA,investigador,5
+"jefa de unidad de apoyo a la docencia,profesora asignatura",asign,docen,hora/clase,profesor,5
+jefa de unidad departamental a,NA,jefa de unidad departa,NA,administrativo,5
+"jefe de area apoyo a la docencia,profesor asignatura",asign,docen,hora/clase,profesor,5
+"jefe de area apoyo a la docencia,profesor investigador de tiempo completo",NA,docen,carrera,investigador,5
+jefe de area asistente administrativo,asist,adminis,asistente,administrativo,5
+jefe de departamento de centro de apoyo educativo,NA,jefe de departament,NA,administrativo,5
+jefe de departamento de contabilidad,NA,jefe de departament,NA,administrativo,5
+jefe de depto administrativo,NA,jefe de depto,NA,administrativo,5
+jefe de unidad departamental a,NA,jefe de unidad departament,NA,administrativo,5
+jefe departamento area med a,NA,jefe departament,NA,administrativo,5
+jefea de unidad de estudios superiores,NA,estudio,NA,administrativo,5
+medico a,NA,medico,NA,profesor,5
+medico residente er grado,NA,medico,NA,profesor,5
+medico residente v,NA,medico,NA,profesor,5
+persona ayudante de biblioteca,ayud,biblio,asistente,tecnico,5
+persona bibliotecario,NA,biblio,NA,tecnico,5
+persona coordinador de tronco divisional,NA,coordinador,NA,administrativo,5
+prof asignatura b,asign,prof,hora/clase,profesor,5
+prof asistente c es del inba de tiempo,asist,prof,asistente,profesor,5
+prof asociado c es del inba tiempo completo,asoc,prof,asociado/interino,profesor,5
+prof de asignatura a,asign,prof,hora/clase,profesor,5
+profesionista d,NA,prof,NA,administrativo,5
+profesionista pasante c,NA,prof,NA,administrativo,5
+profesor a asociado a con hrs,asoc,prof,hora/clase,profesor,5
+profesor a de asig b suplente,NA,prof,hora/clase,profesor,5
+profesor a de ayudante de asignatura a,ayud,prof,asistente,profesor,5
+"profesor asignatura,soporte academico,tecnico academico hora laborada",asign,prof,hora/clase,profesor,5
+profesor asociado b es df,asoc,prof,asociado/interino,profesor,5
+profesor asociado c ems df,asoc,prof,asociado/interino,profesor,5
+profesor asociado c ems mt df,asoc,prof,medio tiempo,profesor,5
+profesor asociado c es mt for,asoc,prof,medio tiempo,profesor,5
+profesor asociado mea,asoc,prof,asociado/interino,profesor,5
+profesor de carrera f zona norte,NA,prof,carrera,profesor,5
+profesor de tiempo completo c,NA,prof,carrera,profesor,5
+profesor investigador de medio tiempo,NA,prof,medio tiempo,investigador,5
+profesor investigador de tiempo completo nivel a,NA,prof,carrera,investigador,5
+profesor investigador titular b,tit,prof,titular,investigador,5
+profesor investigador titular b de tiempo completo,tit,prof,titular,investigador,5
+profesor por asignatura b,asign,prof,hora/clase,profesor,5
+profesor titular a ems df,tit,prof,titular,profesor,5
+profesor titular b df tc,tit,prof,titular,profesor,5
+profesora asociada a,asoc,prof,asociado/interino,profesor,5
+profesora asociada c es tc df,asoc,prof,asociado/interino,profesor,5
+profesora de tiempo completo b,NA,prof,carrera,profesor,5
+profesora de tiempo completo titular a,tit,prof,titular,profesor,5
+profesora investigador,NA,prof,NA,investigador,5
+profesora investigadora de carrera asociado c,asoc,prof,asociado/interino,investigador,5
+profesora investigadora ingenieroa tecnologoa asociado b,asoc,prof,asociado/interino,investigador,5
+profesora o profesor de tiempo completo c,NA,prof,carrera,profesor,5
+profesoraprofesor de tiempo completo c,NA,prof,carrera,profesor,5
+profesores de asignatura,asign,prof,hora/clase,profesor,5
+secretaria c,NA,secreta,NA,administrativo,5
+secretaria de rector,NA,secreta,NA,administrativo,5
+secretaria ejecutiva b,NA,secreta,NA,administrativo,5
+secretario de centro,NA,secreta,NA,administrativo,5
+secretario de rectoria,NA,secreta,NA,administrativo,5
+secretario particular del rector,NA,secreta,NA,administrativo,5
+subdireccion administrativa,NA,subdire,NA,administrativo,5
+subdirectora de postgrado e investigacion,NA,subdire,NA,funcionario,5
+supervisora profesional en trabajo social area medica c,NA,prof,NA,profesor,5
+tec docente asociadoa,asoc,docen,asociado/interino,profesor,5
+tecnica academica c tc,NA,tecnic,carrera,tecnico,5
+tecnica docente asignatura a es for,asign,tecnic,hora/clase,tecnico,5
+tecnico academico tc titular b,tit,tecnic,titular,tecnico,5
+tecnico administrativo,NA,tecnic,NA,tecnico,5
+tecnico de foros b en vestuario,NA,tecnic,NA,tecnico,5
+tecnico docente asociado c es tc df,asoc,tecnic,asociado/interino,tecnico,5
+administrador auxiliar,NA,adminis,asistente,administrativo,4
+administrativo e,NA,adminis,NA,administrativo,4
+analista administrativo b,NA,analista,NA,administrativo,4
+analista aux de procesos,NA,analista,asistente,administrativo,4
+analista de estudios profesionales,NA,analista,NA,administrativo,4
+analista de laboratorios,NA,analista,NA,administrativo,4
+analista de programas,NA,analista,NA,administrativo,4
+analista programador de sistemas,NA,analista,NA,administrativo,4
+analista tecnico b,NA,analista,NA,administrativo,4
+asesoria profesional tecnica en proyectos de investigacion,NA,prof,NA,investigador,4
+asistente academico d,asist,academi,asistente,profesor,4
+asistente administrativo en comunicacion,asist,adminis,asistente,administrativo,4
+asistente de investigacion c,asist,inv,asistente,investigador,4
+ayud inv ciencias med b,ayud,inv,asistente,investigador,4
+ayudante de investigacion en ciencias medicas b,ayud,inv,asistente,investigador,4
+bibliotecologa,NA,biblio,NA,tecnico,4
+bibliotecologo,NA,biblio,NA,tecnico,4
+catedratico a tc,NA,cated,carrera,profesor,4
+coordadministrativo,NA,adminis,NA,administrativo,4
+coordinador administrativo supervisor academico,NA,coordinador,NA,administrativo,4
+coordinador de archivo historico de la ua de o,NA,coordinador,NA,administrativo,4
+coordinador de division,NA,coordinador,NA,administrativo,4
+coordinador de docencia de la licenciatura de contaduria,NA,coordinador,NA,administrativo,4
+coordinador de docencia de la licenciatura de turismo,NA,coordinador,NA,administrativo,4
+coordinador de docencia de la licenciatura en ciencias de la informacion documental,NA,coordinador,NA,administrativo,4
+coordinador de docencia de la licenciatura en estudios cinematograficos,NA,coordinador,NA,administrativo,4
+coordinador de estudios de estudios avanzados,NA,coordinador,NA,administrativo,4
+coordinador de extension,NA,coordinador,NA,administrativo,4
+coordinador de la licenciatura de ingeniero agronomo en floricultura,NA,coordinador,NA,administrativo,4
+coordinador de la licenciatura en comunicacion,NA,coordinador,NA,administrativo,4
+coordinador de la licenciatura en medicina veterinaria y zootecnia,NA,coordinador,NA,administrativo,4
+coordinador de la unidad el cerrillo,NA,coordinador,NA,administrativo,4
+coordinador de posgrado b,NA,coordinador,NA,administrativo,4
+coordinador de profesionales dictaminadores,NA,coordinador,NA,administrativo,4
+coordinador de programa educativo de ingenieria industrial,NA,coordinador,NA,administrativo,4
+coordinador de programa educativo de nutricion,NA,coordinador,NA,administrativo,4
+coordinador de servicio social,NA,coordinador,NA,administrativo,4
+coordinador de unidad de servs espec,NA,coordinador,NA,administrativo,4
+"coordinador del centro de investigacion en ciencias juridicas, justicia penal y seguridad publica",NA,coordinador,NA,administrativo,4
+coordinador del centro de investigacion y estudios avanzados em planeacion territorial ceplat,NA,coordinador,NA,administrativo,4
+coordinador del laboratorio de analisis de suelo y agua,NA,coordinador,NA,administrativo,4
+coordinador del programa educativo de analitica de negocios,NA,coordinador,NA,administrativo,4
+coordinador del programa educativo de doctorado en innovacion y administracion en las organizaciones,NA,coordinador,NA,administrativo,4
+coordinador tiempo completo funcionario,NA,coordinador,NA,administrativo,4
+coordinadora de docencia de la licenciatura en filosofia,NA,coordinador,NA,administrativo,4
+coordinadora de docencia de la licenciatura en historia,NA,coordinador,NA,administrativo,4
+coordinadora de docencia de licenciatura en arquitectura,NA,coordinador,NA,administrativo,4
+"coordinadora de la especialidad en cartografia automatizada, teledeteccion y sistemas de informacion geografica",NA,coordinador,NA,administrativo,4
+coordinadora de la licenciatura de ciencias politicas y administracion publica,NA,coordinador,NA,administrativo,4
+coordinadora de la licenciatura de ingeniero agronomo fitotecnista,NA,coordinador,NA,administrativo,4
+coordinadora de la licenciatura en geoinformatica,NA,coordinador,NA,administrativo,4
+coordinadora de la licenciatura en negocios internacionales bilingue,NA,coordinador,NA,administrativo,4
+coordinadora de la licenciatura en relaciones economicas internacionales,NA,coordinador,NA,administrativo,4
+coordinadora de la licenciatura en sociologia,NA,coordinador,NA,administrativo,4
+coordinadora de la maestria en analisis espacial y geoinformatica,maest,coordinador,NA,administrativo,4
+cpe de doctorado en administracion,NA,adminis,NA,profesor,4
+d profesor asociado a medio tiempo,asoc,prof,medio tiempo,profesor,4
+d profesor titular b medio tiempo,tit,prof,medio tiempo,profesor,4
+delegado administrativo,NA,adminis,NA,administrativo,4
+departamento de evaluacion profesional,NA,prof,NA,profesor,4
+direccion de division de ingenieria mecatronica,NA,direc,NA,funcionario,4
+director academico de nivel superior,NA,director,NA,funcionario,4
+director de centro,NA,director,NA,funcionario,4
+director de escuela artistica profesional,NA,director,NA,funcionario,4
+director de escuela superior,NA,director,NA,funcionario,4
+director de planeacion y vinculacion,NA,director,NA,funcionario,4
+director de programa,NA,director,NA,funcionario,4
+director departamento,NA,director,NA,funcionario,4
+disenador desarrollador y administrador del sistema web de los diversos programas de la facultad de educacion,NA,adminis,NA,administrativo,4
+docente asociado c,asoc,docen,asociado/interino,profesor,4
+docente hr,NA,docen,hora/clase,profesor,4
+"docente y comite de editorial, enlace de equidad y genero",NA,docen,NA,profesor,4
+"docente, coordinadora de licenciatura en pedagogica y difusion",NA,docen,NA,profesor,4
+ejecutivo profesionista f,NA,prof,NA,administrativo,4
+encargada de la coordinacion de investigacion,NA,inv,NA,investigador,4
+encargado administrativo encargado del centro de computo,NA,adminis,NA,administrativo,4
+eventual tecnico a,NA,tecnic,hora/clase,tecnico,4
+facilitador a educativo a,NA,facilitador a educativo,NA,profesor,4
+i investigador asociado a tiempo completo,asoc,inv,asociado/interino,investigador,4
+ingeniera biomedico,NA,medico,NA,profesor,4
+inv en cienc med a,NA,inv,NA,investigador,4
+investigador f,NA,inv,NA,investigador,4
+investigador i,NA,inv,NA,investigador,4
+investigador l,NA,inv,NA,investigador,4
+investigadora asociado c,asoc,inv,asociado/interino,investigador,4
+investigadorinvestigadora en ciencias medicas b,NA,inv,NA,investigador,4
+jefa del departamento de doctorados,NA,jefa del departa,NA,administrativo,4
+jefa del departamento de educacion continua,NA,jefa del departa,NA,administrativo,4
+jefa del departamento de educacion continua y a distancia,NA,jefa del departa,NA,administrativo,4
+jefa del departamento de fomento y planeacion de la investigacion y los estudios avanzados,NA,jefa del departa,NA,administrativo,4
+jefa del departamento de infraestructura academica,NA,jefa del departa,NA,administrativo,4
+jefa del departamento de investigacion cultural,NA,jefa del departa,NA,administrativo,4
+jefa del departamento de proyectos de investigacion con recursos uaem,NA,jefa del departa,NA,administrativo,4
+jefa del departamento de servicio social,NA,jefa del departa,NA,administrativo,4
+jefatura de departamento en area medica a,NA,jefatura de departa,NA,administrativo,4
+jefe control administrativo de la gerencia de inteligencia e informacion tecnologica,NA,adminis,NA,administrativo,4
+jefe control administrativo de la gerencia de procesos termicos,NA,adminis,NA,administrativo,4
+jefe de biblioteca a,NA,biblio,NA,tecnico,4
+jefe de departamento academico de ciencias de la salud,NA,jefe de departament,NA,administrativo,4
+jefe de departamento academico de ciencias economicasadministrativas,NA,jefe de departament,NA,administrativo,4
+jefe de departamento de notificacion de procedimientos,NA,jefe de departament,NA,administrativo,4
+jefe de departamento en area medicaa,NA,jefe de departament,NA,administrativo,4
+jefe de depto,NA,jefe de depto,NA,administrativo,4
+jefe de la carrera de ingenieria en computacion,NA,jefe de la carrera,NA,administrativo,4
+jefe de la carrera de licenciatura en matematicas aplicadas,NA,jefe de la carrera,NA,administrativo,4
+"jefe de seccion de desarrollo, estructura y actualizacion de los procesos academicos curriculares",NA,academi,NA,administrativo,4
+jefe de unidadcoord carrera mt,NA,jefe de unidadcoord carrera,NA,administrativo,4
+jefe del departamento academico,NA,jefe del departament,NA,administrativo,4
+jefe del departamento administrativo,NA,jefe del departament,NA,administrativo,4
+jefe del departamento de ciencias basicas,NA,jefe del departament,NA,administrativo,4
+jefe del departamento de control escolar,NA,jefe del departament,NA,administrativo,4
+jefe del departamento de educacion continua,NA,jefe del departament,NA,administrativo,4
+jefe del departamento de habilitacion academica,NA,jefe del departament,NA,administrativo,4
+jefe del departamento de maestrias,maest,jefe del departament,NA,administrativo,4
+jefe depto amed a,NA,jefe depto,NA,administrativo,4
+jefe el departamento de servicio social,NA,jefe el departament,NA,administrativo,4
+jefea de tecnicos,NA,tecnic,NA,tecnico,4
+medico de consulta,NA,medico,NA,profesor,4
+medico internista b,NA,medico,NA,profesor,4
+persona asistente administrativo,asist,adminis,asistente,administrativo,4
+persona coordinador de estudios de lab,NA,coordinador,NA,administrativo,4
+persona coordinador de tronco general,NA,coordinador,NA,administrativo,4
+persona jefe administrativo,NA,adminis,NA,administrativo,4
+persona secretario academico de division,NA,secreta,NA,administrativo,4
+persona tecnico academico asociado,asoc,tecnic,asociado/interino,tecnico,4
+prof asig a,NA,prof,hora/clase,profesor,4
+prof asistente c es del inba tiempo completo,asist,prof,asistente,profesor,4
+prof asociado a,asoc,prof,asociado/interino,profesor,4
+prof asociado c es del inba de tiempo,asoc,prof,asociado/interino,profesor,4
+prof de asignatura c,asign,prof,hora/clase,profesor,4
+prof e inves tit a tc,tit,prof,titular,investigador,4
+prof tit a t c,tit,prof,titular,profesor,4
+prof titular a es del inba tiempo,tit,prof,titular,profesor,4
+profesional en trabajo social en area medica a,NA,prof,NA,profesor,4
+profesionista c fam gn,NA,prof,NA,administrativo,4
+profesionista con estudios de posgrado a,NA,prof,NA,administrativo,4
+profesionista en gestion del pat cult b,NA,prof,NA,administrativo,4
+profesionista pasante b,NA,prof,NA,administrativo,4
+profesor a asignatura a con hrs,asign,prof,hora/clase,profesor,4
+profesor asignatura b con hrs,asign,prof,hora/clase,profesor,4
+profesor asociado a ems mt for,asoc,prof,medio tiempo,profesor,4
+profesor asociado a es for,asoc,prof,asociado/interino,profesor,4
+profesor asociado b ems mt for,asoc,prof,medio tiempo,profesor,4
+profesor asociado c ems tc df,asoc,prof,asociado/interino,profesor,4
+profesor asociado c ems tc for,asoc,prof,asociado/interino,profesor,4
+profesor asociado matematicas,asoc,prof,asociado/interino,profesor,4
+profesor asociado mec,asoc,prof,asociado/interino,profesor,4
+profesor de asignatura horas,asign,prof,hora/clase,profesor,4
+profesor de carrera e zona norte,NA,prof,carrera,profesor,4
+profesor investigador asociado c de tiempo completo,asoc,prof,asociado/interino,investigador,4
+profesor investigador ingeniero tecnologo asociado a,asoc,prof,asociado/interino,investigador,4
+profesor tecnico titular b df tc,tit,prof,titular,profesor,4
+profesor tiempo completo c,NA,prof,carrera,profesor,4
+profesor titular b ems for,tit,prof,titular,profesor,4
+profesor titular c ems for,tit,prof,titular,profesor,4
+profesora asociada c df tc,asoc,prof,asociado/interino,profesor,4
+profesora asociado c es tc for,asoc,prof,asociado/interino,profesor,4
+profesora de asignatura hsm,asign,prof,hora/clase,profesor,4
+profesora de asignatura nivel b,asign,prof,hora/clase,profesor,4
+profesora de tiempo completo asoc c,asoc,prof,asociado/interino,profesor,4
+profesora investigador de tiempo completo a,NA,prof,carrera,investigador,4
+profesora investigadora de carrera titular c,tit,prof,titular,investigador,4
+profesora investigadora de tiempo completo a,NA,prof,carrera,investigador,4
+"profesora investigadora de tiempo completo,secretaria academica de facultad o escuela",NA,prof,carrera,investigador,4
+profesora o profesor de tiempo completo a,NA,prof,carrera,profesor,4
+profesora titular a df tc,tit,prof,titular,profesor,4
+profestrabsocamedica a,NA,prof,NA,profesor,4
+responsable de programa tiempo completo funcionario,NA,funcionario,NA,funcionario,4
+revisor tecnico especializado,NA,tecnic,NA,tecnico,4
+sec academico facultad,NA,academi,NA,funcionario,4
+sec administrativo facultad,NA,adminis,NA,administrativo,4
+secretaria auxiliar,NA,secreta,asistente,administrativo,4
+secretaria de unidad,NA,secreta,NA,administrativo,4
+secretario a auxiliar,NA,secreta,asistente,administrativo,4
+secretario administrativo de centro,NA,secreta,NA,administrativo,4
+secretario particular,NA,secreta,NA,administrativo,4
+secretarioa,NA,secreta,NA,administrativo,4
+subdirector de informatica,NA,subdire,NA,administrativo,4
+subdirector de obras,NA,subdire,NA,administrativo,4
+subdirector de posgrado e investigacion,NA,subdire,NA,funcionario,4
+subdirector secretario de escuela de ensenanzas artisticas,NA,subdire,NA,funcionario,4
+subdirectora administrativa,NA,subdire,NA,administrativo,4
+subdirectora de posgrado e investigacion,NA,subdire,NA,funcionario,4
+subdirectoraa de area,NA,subdire,NA,administrativo,4
+tec docente asociado,asoc,docen,asociado/interino,tecnico,4
+tecnico a administrativo a especializado a,NA,tecnic,NA,tecnico,4
+tecnico academico medio tiempo asociado c,asoc,tecnic,medio tiempo,tecnico,4
+tecnico academico tc titular c,tit,tecnic,titular,tecnico,4
+tecnico bibliotecario,NA,tecnic,NA,tecnico,4
+tecnico c fam sns,NA,tecnic,NA,tecnico,4
+tecnico docente asociado a es tc df,asoc,tecnic,asociado/interino,tecnico,4
+tecnico electrodiagnostico,NA,tecnic,NA,tecnico,4
+tecnico en calderas,NA,tecnic,NA,tecnico,4
+tecnico en electronica b,NA,tecnic,NA,tecnico,4
+tecnico laboratorista de soporte academico,NA,tecnic,NA,tecnico,4
+tecnico radiologo o radioterapia,NA,tecnic,NA,tecnico,4
+tecnicoa especializadoa c,NA,tecnic,NA,tecnico,4
+tecnicoa titular c,tit,tecnic,titular,tecnico,4
+tecnicotecnica laboratorista a,NA,tecnic,NA,tecnico,4
+terapista profesonal en rehabilitacion,NA,prof,NA,profesor,4
+abogada general,NA,abogad,NA,administrativo,3
+abogado a general,NA,abogad,NA,administrativo,3
+abogado especialista b,NA,abogad,NA,administrativo,3
+administrador de facultad b,NA,adminis,NA,administrativo,3
+administrador ejecutivo d,NA,adminis,NA,administrativo,3
+administrativo c,NA,adminis,NA,administrativo,3
+administrativo especializado,NA,adminis,NA,administrativo,3
+administrativo especializado l,NA,adminis,NA,administrativo,3
+administrativo general c,NA,adminis,NA,administrativo,3
+analista de adquisiciones,NA,analista,NA,administrativo,3
+analista de sistemas,NA,analista,NA,administrativo,3
+analista en informatica a,NA,analista,NA,administrativo,3
+apoyo a la docencia,NA,docen,asistente,profesor,3
+asesor academico a,NA,academi,NA,profesor,3
+asesor del director general,NA,director,NA,administrativo,3
+asesor docente,NA,docen,NA,profesor,3
+asist investigador c,asist,inv,asistente,investigador,3
+asistente de asuntos escolares,asist,escola,asistente,administrativo,3
+"asistente de funcionario,profesor asignatura",asist,funcionario,hora/clase,profesor,3
+asistente secretarial a,asist,secreta,asistente,administrativo,3
+aux de area administrativa a,NA,adminis,asistente,administrativo,3
+aux de area administrativa b,NA,adminis,asistente,administrativo,3
+ayud inv ciencias med c,ayud,inv,asistente,investigador,3
+ayudante invest ciencias med c,ayud,inv,asistente,investigador,3
+bibliotecaria,NA,biblio,NA,tecnico,3
+coordinacion administrativa de investigacion y posgrado,NA,adminis,NA,administrativo,3
+coordinacion de de investigacion basica,NA,inv,NA,investigador,3
+coordinacion de servicios escolares,NA,escola,NA,administrativo,3
+coordinador de area d,NA,coordinador,NA,administrativo,3
+coordinador de area e,NA,coordinador,NA,administrativo,3
+coordinador de area f,NA,coordinador,NA,administrativo,3
+coordinador de difusion y extension universitaria,NA,coordinador,NA,administrativo,3
+coordinador de docencia,NA,coordinador,NA,administrativo,3
+coordinador de posgrado a,NA,coordinador,NA,administrativo,3
+coordinador de programa educativo de administracion de empresas,NA,coordinador,NA,administrativo,3
+coordinador de programa educativo de comunicacion,NA,coordinador,NA,administrativo,3
+coordinador de programa educativo de la licenciatura ingenieria en agronegocios,NA,coordinador,NA,administrativo,3
+coordinador de programa educativo de maestria en psicologia multidisciplinar,maest,coordinador,NA,administrativo,3
+coordinador de proyecto,NA,coordinador,NA,administrativo,3
+coordinador de proyectos,NA,coordinador,NA,administrativo,3
+coordinador de proyectos a,NA,coordinador,NA,administrativo,3
+coordinador de proyectos b,NA,coordinador,NA,administrativo,3
+coordinador de proyectos b en proyectos arquitectonicos,NA,coordinador,NA,administrativo,3
+coordinador de tecnicos,NA,coordinador,NA,administrativo,3
+coordinador general de politicas linguisticas,NA,coordinador,NA,administrativo,3
+coordinadora a,NA,coordinador,NA,administrativo,3
+coordinadora c,NA,coordinador,NA,administrativo,3
+coordinadora de vinculacion y extension,NA,coordinador,NA,administrativo,3
+cpe del doctorado en ciencias administrativas,NA,adminis,NA,profesor,3
+d tecnico academico auxiliar a tiempo completo,NA,tecnic,asistente,tecnico,3
+direc tic area sist informatic,NA,direc,NA,funcionario,3
+direccion de administracion,NA,direc,NA,administrativo,3
+direccion de division de ciencias de la salud,NA,direc,NA,funcionario,3
+direccion de programa academico,NA,direc,NA,funcionario,3
+direccion del instituto de nutricion,NA,direc,NA,funcionario,3
+director administrativo b,NA,director,NA,administrativo,3
+director administrativo c,NA,director,NA,administrativo,3
+director apoyo y seguridad uni,NA,director,NA,funcionario,3
+director de area b,NA,director,NA,funcionario,3
+director de area de estructura,NA,director,NA,funcionario,3
+director de area de investigacion,NA,director,NA,funcionario,3
+director de area directora de area,NA,director,NA,funcionario,3
+director de escuela preparatoria,NA,director,NA,funcionario,3
+"director de investigacion de contaminantes, sustancias, residuos y bioseguridad",NA,director,NA,funcionario,3
+director de la licenciatura en medico cirujano,NA,director,NA,funcionario,3
+director de plantel d y e ii,NA,director,NA,funcionario,3
+director de recursos humanos,NA,director,NA,funcionario,3
+director de unidad de investigacion en ambiente y salud,NA,director,NA,funcionario,3
+director de unidad tiempo completo funcionario,NA,director,NA,funcionario,3
+director general admvo,NA,director,NA,administrativo,3
+directora de area c,NA,director,NA,funcionario,3
+directora de carrera,NA,director,NA,funcionario,3
+directora de escuela superior,NA,director,NA,funcionario,3
+division de estudios profesionales,NA,estudio,NA,profesor,3
+docente asig a,NA,docen,hora/clase,profesor,3
+docente b,NA,docen,NA,profesor,3
+docente b medio tiempo,NA,docen,medio tiempo,profesor,3
+docente e investigador,NA,docen,NA,investigador,3
+docente honorario asimilable al salario,honor,docen,hora/clase,profesor,3
+docente investigador medio tiempo asociado b,asoc,docen,medio tiempo,investigador,3
+docente y coordinador de doctorado,NA,docen,NA,profesor,3
+docente y responsable proyecto de radio,NA,docen,NA,profesor,3
+"docente, investigacion y coordinadora de difusion",NA,docen,NA,investigador,3
+encargado de serv escolares a,NA,escola,NA,administrativo,3
+exdirector media superior,NA,director,NA,funcionario,3
+facilitador investigador,NA,inv,NA,investigador,3
+gestor administrativo a,NA,adminis,NA,administrativo,3
+hrs profesora profesor asignatura b,asign,prof,hora/clase,profesor,3
+investigador asistente b tiempo,asist,inv,asistente,investigador,3
+investigador asistente c,asist,inv,asistente,investigador,3
+investigador en ciencias med a,NA,inv,NA,investigador,3
+investigadora asociado b,asoc,inv,asociado/interino,investigador,3
+investigadora especializadoa,NA,inv,NA,investigador,3
+jefa del centro regional de investigacion acuicola y pesquera en ensenada,NA,inv,NA,investigador,3
+jefa del centro regional de investigacion acuicola y pesquera en veracruz,NA,inv,NA,investigador,3
+jefa del departamento de control escolar,NA,jefa del departa,NA,administrativo,3
+jefa del departamento de conversion industrial en el pacifico sur,NA,jefa del departa,NA,administrativo,3
+jefatura de la division de estudios de posgrado,NA,estudio,NA,profesor,3
+jefe a del departamento de educacion continua,NA,jefe a del departament,NA,administrativo,3
+jefe de area de supervision y evaluacion del acto docente,NA,docen,NA,administrativo,3
+jefe de biblioteca b,NA,biblio,NA,tecnico,3
+jefe de departamento de campanas de comunicacion,NA,jefe de departament,NA,administrativo,3
+jefe de departamento de fomento a las actividades artisticas,NA,jefe de departament,NA,administrativo,3
+jefe de departamento de investigacion gramatical,NA,jefe de departament,NA,administrativo,3
+jefe de departamento de investigacion sociolinguistica,NA,jefe de departament,NA,administrativo,3
+jefe de departamento de presupuesto y cobranza,NA,jefe de departament,NA,administrativo,3
+jefe de departamento de vinculacion comunitaria,NA,jefe de departament,NA,administrativo,3
+jefe de departamento jefea de departamento,NA,jefe de departamento jefea de departament,NA,administrativo,3
+jefe de depto academico,NA,jefe de depto,NA,administrativo,3
+jefe de la division de carrera de ing mecatronica,NA,jefe de la division de carrera,NA,administrativo,3
+jefe de oficina de programa academico,NA,academi,NA,administrativo,3
+jefe de unidad de estudios superiores,NA,estudio,NA,administrativo,3
+jefe del centro regional de investigacion acuicola y pesquera en bahia de banderas,NA,inv,NA,investigador,3
+jefe del departamento de difusion y extension universitaria,NA,jefe del departament,NA,administrativo,3
+jefe del departamento de evaluacion de recursos pesqueros en el atlantico,NA,jefe del departament,NA,administrativo,3
+jefe del departamento de planeacion,NA,jefe del departament,NA,administrativo,3
+jefe del departamento de servicios escolares,NA,jefe del departament,NA,administrativo,3
+jefe depto admvo,NA,jefe depto,NA,administrativo,3
+medico b,NA,medico,NA,profesor,3
+medico especialista hrs,NA,medico,hora/clase,profesor,3
+medico residente grado,NA,medico,NA,profesor,3
+medico residente i,NA,medico,NA,profesor,3
+medico residente ii,NA,medico,NA,profesor,3
+medicoa residente v,NA,medico,NA,profesor,3
+persona abogado,NA,abogad,NA,administrativo,3
+persona asistente de funcionario,asist,funcionario,asistente,administrativo,3
+persona jefe de oficina tecnica de consejo divisional,NA,tecnic,NA,tecnico,3
+persona responsable tecnico administrativo,NA,tecnic,NA,tecnico,3
+persona subdirector administrativo admvo,NA,director,NA,administrativo,3
+persona tecnico bibliotecario,NA,tecnic,NA,tecnico,3
+personal de apoyo administrativo,NA,adminis,asistente,administrativo,3
+personal de apoyo secretarial,NA,secreta,asistente,administrativo,3
+prof asociado b es del inba tiempo,asoc,prof,asociado/interino,profesor,3
+prof de actividades culturales y deportivas,NA,prof,NA,profesor,3
+prof e inves tit mt a,tit,prof,medio tiempo,investigador,3
+prof en carrera ingenieria y disenopr,NA,prof,NA,profesor,3
+profesional medio tiempo nivel,NA,prof,medio tiempo,profesor,3
+profesionista con posgrado a,NA,prof,NA,administrativo,3
+profesionista d fam gn,NA,prof,NA,administrativo,3
+profesor a asignatura b,asign,prof,hora/clase,profesor,3
+profesor a por asignatura b,asign,prof,hora/clase,profesor,3
+profesor asignatura b df,asign,prof,hora/clase,profesor,3
+profesor asignatura b horas equivalente,asign,prof,hora/clase,profesor,3
+"profesor asignatura,subcoordinador",asign,prof,hora/clase,profesor,3
+profesor asociado a df t,asoc,prof,asociado/interino,profesor,3
+profesor asociado a ze ii,asoc,prof,asociado/interino,profesor,3
+profesor de asignatura maestria,asign,prof,hora/clase,profesor,3
+profesor de carrera a,NA,prof,carrera,profesor,3
+profesor de recursamientos,NA,prof,NA,profesor,3
+profesor de tiempo comp titular a,tit,prof,titular,profesor,3
+profesor de tiempo completo a interino,NA,prof,carrera,profesor,3
+profesor hora semana mes universidad tecnologica cadereyta,NA,prof,hora/clase,profesor,3
+profesor investigador ingeniero tecnologo asociado b,asoc,prof,asociado/interino,investigador,3
+profesor maestria en administracion,maest,prof,NA,profesor,3
+profesor por asignatura horasemanames,asign,prof,hora/clase,profesor,3
+profesor tiempo completo asociado b,asoc,prof,asociado/interino,profesor,3
+profesor titulado,tit,prof,titular,profesor,3
+profesor titular a ems tc for,tit,prof,titular,profesor,3
+profesor titular c es for,tit,prof,titular,profesor,3
+profesor titular mt c,tit,prof,medio tiempo,profesor,3
+profesor visitante,NA,prof,NA,profesor,3
+profesora asignatura b es for,asign,prof,hora/clase,profesor,3
+"profesora asignatura,supervisora tecnica",asign,prof,hora/clase,profesor,3
+profesora asociada b ems tc for,asoc,prof,asociado/interino,profesor,3
+profesora asociado a es tc for,asoc,prof,asociado/interino,profesor,3
+profesora asociado b es mt df,asoc,prof,medio tiempo,profesor,3
+profesora asociado c es mt df,asoc,prof,medio tiempo,profesor,3
+profesora investigadora ingenieroa tecnologoa asociadoa b,asoc,prof,asociado/interino,investigador,3
+profesora titular a ems mt df,tit,prof,medio tiempo,profesor,3
+profesoraprofesor de tiempo completo a,NA,prof,carrera,profesor,3
+profr asig a,NA,prof,hora/clase,profesor,3
+profr asig b de la division de ingenieria en innovacion agricola sustentable,NA,prof,hora/clase,profesor,3
+psicologo de unidad academica,NA,academi,NA,administrativo,3
+ptc ac de mantenimiento industrial,NA,ptc,carrera,profesor,3
+ptc ac de procesos de produccion,NA,ptc,carrera,profesor,3
+ptc asociado b,asoc,ptc,asociado/interino,profesor,3
+ptc titular b,tit,ptc,titular,profesor,3
+responsable tecnico administrativo,NA,tecnic,NA,tecnico,3
+secretaria auxiliar a,NA,secreta,asistente,administrativo,3
+secretario academico de escue a,NA,secreta,NA,administrativo,3
+secretario cm,NA,secreta,NA,administrativo,3
+secretario gral administrativo,NA,secreta,NA,administrativo,3
+secretario tecnico hcu,NA,secreta,NA,administrativo,3
+subdireccion de la uicslp,NA,subdire,NA,funcionario,3
+subdirector academico de la uicslp,NA,subdire,NA,funcionario,3
+subdirector administrativo a,NA,subdire,NA,administrativo,3
+subdirector de bioseguridad,NA,subdire,NA,administrativo,3
+subdirectora de ciudades sustentables y movilidad,NA,subdire,NA,administrativo,3
+subdirectora de modelacion y analisis de politicas de mitigacion,NA,subdire,NA,administrativo,3
+tecnica academico b,NA,tecnic,NA,tecnico,3
+tecnica asociado a,asoc,tecnic,asociado/interino,tecnico,3
+tecnica bibliotecaria,NA,tecnic,NA,tecnico,3
+tecnica docente asociado b es tc df,asoc,tecnic,asociado/interino,tecnico,3
+tecnica docente asociado c es tc df,asoc,tecnic,asociado/interino,tecnico,3
+tecnica especializada,NA,tecnic,NA,tecnico,3
+tecnica titular a es tc for,tit,tecnic,titular,tecnico,3
+tecnicatecnico titular b,tit,tecnic,titular,tecnico,3
+tecnico a academico,NA,tecnic,NA,tecnico,3
+tecnico a academico a,NA,tecnic,NA,tecnico,3
+tecnico academico d,NA,tecnic,NA,tecnico,3
+tecnico auxiliar c,NA,tecnic,asistente,tecnico,3
+tecnico b fam stl,NA,tecnic,NA,tecnico,3
+tecnico d proc serv p docentes,NA,tecnic,NA,tecnico,3
+tecnico docente asignatura a,asign,tecnic,hora/clase,tecnico,3
+tecnico docente asignatura b,asign,tecnic,hora/clase,tecnico,3
+tecnico docente asociado b ems tc df,asoc,tecnic,asociado/interino,tecnico,3
+tecnico docente asociado c,asoc,tecnic,asociado/interino,tecnico,3
+tecnico en elementos museograficos en produccion de plastico,NA,tecnic,NA,tecnico,3
+tecnico especializado d,NA,tecnic,NA,tecnico,3
+tecnico profesionista,NA,tecnic,NA,administrativo,3
+tecnico titular a es tc df,tit,tecnic,titular,tecnico,3
+tecnico titular b es tc df,tit,tecnic,titular,tecnico,3
+tecnico titular b es tc for,tit,tecnic,titular,tecnico,3
+tecnicoa administrativoa especializadoa,NA,tecnic,NA,tecnico,3
+tecnicoa de laboratorio a,NA,tecnic,NA,tecnico,3
+tecnicoa en sistemas a,NA,tecnic,NA,tecnico,3
+terapista prof rehabilitacion,NA,prof,NA,profesor,3
+abogado estatal,NA,abogad,NA,administrativo,2
+academia de industrial,NA,academi,NA,profesor,2
+admin de desarrollo academico,NA,academi,NA,profesor,2
+administrador de tecnologias de informacion,NA,adminis,NA,administrativo,2
+administradora de tecnologias de informacion,NA,adminis,NA,administrativo,2
+analista administrativa b,NA,analista,NA,administrativo,2
+analista administrativo c,NA,analista,NA,administrativo,2
+analista administrativo de capital humano,NA,analista,NA,administrativo,2
+analista administrativo e,NA,analista,NA,administrativo,2
+analista auxiliar,NA,analista,asistente,administrativo,2
+analista de contabilidad,NA,analista,NA,administrativo,2
+analista de mant de sist,NA,analista,NA,administrativo,2
+analista de sistemas y procesos a incluyente y no sexista,NA,analista,NA,administrativo,2
+analista programador,NA,analista,NA,administrativo,2
+analista programador b,NA,analista,NA,administrativo,2
+"analista programador,profesor asignatura",asign,analista,hora/clase,profesor,2
+analista programadora b,NA,analista,NA,administrativo,2
+analista sist profc,NA,analista,NA,administrativo,2
+analista tecnica,NA,analista,NA,administrativo,2
+analista tecnico especializado incluyente y no sexista,NA,analista,NA,administrativo,2
+asesoria profesional en investigaciones tecnicas y cientificas,NA,prof,NA,investigador,2
+asist investigador a,asist,inv,asistente,investigador,2
+asistente administrativo c,asist,adminis,asistente,administrativo,2
+"asistente administrativo,profesor asignatura",asist,adminis,asistente,administrativo,2
+asistente de apoyo a la docencia c,asist,docen,asistente,profesor,2
+asistente de control escolar,asist,escola,asistente,administrativo,2
+auxiliar administrativo de la division de ing informatica,NA,adminis,asistente,administrativo,2
+auxiliar administrativopr b,NA,adminis,asistente,administrativo,2
+auxiliar admvo del depto de control escolar,NA,escola,asistente,profesor,2
+auxiliar docente yo investigador medio tiempo asociado c,asoc,docen,medio tiempo,investigador,2
+ayudante de invest en ciencias medicas a incluyente y no sexista,ayud,inv,asistente,investigador,2
+ayudante de investigador en ciencias medicas b,ayud,inv,asistente,investigador,2
+"bibliotecologo en jefe,profesor asignatura",asign,biblio,hora/clase,profesor,2
+catedratica a tc,NA,cated,carrera,profesor,2
+catedratico b medio tiempo,NA,cated,medio tiempo,profesor,2
+catedratico b por asignatura,asign,cated,hora/clase,profesor,2
+catedratico c por asignatura,asign,cated,hora/clase,profesor,2
+coord administrativo sistemas informaticos y estadistica,NA,adminis,NA,administrativo,2
+coord medico area normativa a,NA,medico,NA,profesor,2
+coordinacion de investigacion,NA,inv,NA,investigador,2
+coordinador a del programa de maestria y doctorado en estudios sociales,maest,coordinador,NA,administrativo,2
+coordinador a del programa educativo de posgrado en sistemas computacionales,NA,coordinador,NA,administrativo,2
+coordinador a paramedico a en area normativa a,NA,coordinador,NA,tecnico,2
+coordinador administrativo de dependencia,NA,coordinador,NA,administrativo,2
+coordinador administrativo responsable tecnico del foro exp,NA,coordinador,NA,administrativo,2
+coordinador admvo,NA,coordinador,NA,administrativo,2
+coordinador de departamento d,NA,coordinador,NA,administrativo,2
+coordinador de departamento de vinulacion,NA,coordinador,NA,administrativo,2
+coordinador de docencia de la licenciatura en actuaria,NA,coordinador,NA,administrativo,2
+coordinador de docencia de la licenciatura en economia,NA,coordinador,NA,administrativo,2
+coordinador de docencia de la licenciatura en ingeniero agronomo zootecnista,NA,coordinador,NA,administrativo,2
+coordinador de educacion continua,NA,coordinador,NA,administrativo,2
+coordinador de estudios de lab,NA,coordinador,NA,administrativo,2
+coordinador de la licenciatura en administracion,NA,coordinador,NA,administrativo,2
+coordinador de la licenciatura en derecho,NA,coordinador,NA,administrativo,2
+coordinador de la licenciatura en diseno industrial,NA,coordinador,NA,administrativo,2
+coordinador de la licenciatura en educacion,NA,coordinador,NA,administrativo,2
+coordinador de la licenciatura en enfermeria,NA,coordinador,NA,administrativo,2
+coordinador de la licenciatura en informatica administrativa,NA,coordinador,NA,administrativo,2
+coordinador de la licenciatura en ingeniero agronomo en floricultura,NA,coordinador,NA,administrativo,2
+coordinador de la licenciatura en medico cirujano,NA,coordinador,NA,administrativo,2
+coordinador de programacion apoyos y servicios academicos,NA,coordinador,NA,administrativo,2
+coordinador de promocion del desarrollo,NA,coordinador,NA,administrativo,2
+coordinador de vinculacion,NA,coordinador,NA,administrativo,2
+coordinador del centro de investigacion en ciencias biologicas aplicadas,NA,coordinador,NA,administrativo,2
+coordinador del centro de investigaciones en ciencias de la cultura fisica y salud,NA,coordinador,NA,administrativo,2
+coordinador general b,NA,coordinador,NA,administrativo,2
+coordinador maestria,maest,coordinador,NA,administrativo,2
+coordinadora academica del programa educativo de doctorado en sustentabilidad,NA,coordinador,NA,administrativo,2
+coordinadora administrativa de dependencia,NA,coordinador,NA,administrativo,2
+coordinadora de docencia de la licenciatura en diseno industrial,NA,coordinador,NA,administrativo,2
+coordinadora de docencia de la licenciatura en sociologia,NA,coordinador,NA,administrativo,2
+coordinadora de ensenanza de enfermeria,NA,coordinador,NA,administrativo,2
+coordinadora de grado turno vespertino,NA,coordinador,NA,administrativo,2
+coordinadora de informatica administrativa,NA,coordinador,NA,administrativo,2
+coordinadora de la licenciatura de ingenieria en computacion,NA,coordinador,NA,administrativo,2
+coordinadora de la licenciatura en arqueologia,NA,coordinador,NA,administrativo,2
+coordinadora de la licenciatura en gastronomia,NA,coordinador,NA,administrativo,2
+coordinadora de la licenciatura en lenguas,NA,coordinador,NA,administrativo,2
+coordinadora de plantel,NA,coordinador,NA,administrativo,2
+coordinadora de procesadora de alimentos,NA,coordinador,NA,administrativo,2
+coordinadora de tutoria,NA,coordinador,NA,administrativo,2
+coordinadora institucional de equidad de genero,NA,coordinador,NA,administrativo,2
+direccion de area b eventual,NA,direc,hora/clase,administrativo,2
+direccion de area c eventual,NA,direc,hora/clase,administrativo,2
+direccion de area f eventual,NA,direc,hora/clase,administrativo,2
+direccion de carrera de procesos alimentarios y quimica area biotecnologia,NA,direc,NA,funcionario,2
+direccion de unidad academica,NA,direc,NA,funcionario,2
+direccion interina de unidad academica,NA,direc,NA,funcionario,2
+director a de programa academico,NA,director,NA,funcionario,2
+director a de vinculacion comunitaria,NA,director,NA,funcionario,2
+director academico de arh y contaduria,NA,director,NA,funcionario,2
+director academico de mecatronica y mecanica automotriz,NA,director,NA,funcionario,2
+director academico n m s,NA,director,NA,funcionario,2
+director academico n s,NA,director,NA,funcionario,2
+director alumniversitario,NA,director,NA,funcionario,2
+director artistico de sueldo base,NA,director,NA,funcionario,2
+director b,NA,director,NA,funcionario,2
+director de administracion y finanzas,NA,director,NA,funcionario,2
+director de carrera,NA,director,NA,funcionario,2
+director de carreras,NA,director,NA,funcionario,2
+director de division de sistemas mecanicos,NA,director,NA,funcionario,2
+director de instituto de investigaciones sobre la salud publica,NA,director,NA,funcionario,2
+"director de planeacion,programacion y presupuestos",NA,director,NA,funcionario,2
+director de preparatoria,NA,director,NA,funcionario,2
+director de programa academico de ibio,NA,director,NA,funcionario,2
+director de programa academico de itm,NA,director,NA,funcionario,2
+director del instituto de biotecnologia,NA,director,NA,funcionario,2
+director del instituto de fisica y matematicas,NA,director,NA,funcionario,2
+director del instituto de quimica aplicada,NA,director,NA,funcionario,2
+director del itspe,NA,director,NA,funcionario,2
+director ejecutivo a,NA,director,NA,funcionario,2
+director facultad,NA,director,NA,funcionario,2
+director general b,NA,director,NA,funcionario,2
+directora a,NA,director,NA,funcionario,2
+directora academico de tecnologias de la informacion,NA,director,NA,funcionario,2
+directora de conservacion de ecosistemas y adaptacion al cambio climatico,NA,director,NA,funcionario,2
+directora de desarrollo empresarial,NA,director,NA,funcionario,2
+directora de investigacion para estrategias de desarrollo bajo en carbono,NA,director,NA,funcionario,2
+directora de negocios,NA,director,NA,funcionario,2
+directora del progr de innovacion educativa y diseno curricular,NA,director,NA,funcionario,2
+directora planeacion y vinculacion,NA,director,NA,funcionario,2
+directora regional,NA,director,NA,funcionario,2
+docente de asignatura en licenciatura,asign,docen,hora/clase,profesor,2
+docente investigador medio tiempo asociado a,asoc,docen,medio tiempo,investigador,2
+docente investigador tiempo completo asociado b,asoc,docen,asociado/interino,investigador,2
+ejecutor administrativo c mt,NA,adminis,medio tiempo,administrativo,2
+encargada de programa academico,NA,academi,NA,profesor,2
+encargado administrativo auxiliar de nominas,NA,adminis,asistente,administrativo,2
+encargado de inventarios,NA,inv,NA,investigador,2
+encargado de servicios bibliotecarios,NA,biblio,NA,tecnico,2
+encargado del area academica unidad choix,NA,academi,NA,profesor,2
+especialista en produccion control e investigacion de biologicos y reactivos,NA,inv,NA,investigador,2
+especialista tecnico,NA,tecnic,NA,tecnico,2
+eventual administrativo a,NA,adminis,hora/clase,administrativo,2
+eventual administrativo b,NA,adminis,hora/clase,administrativo,2
+eventual administrativo c,NA,adminis,hora/clase,administrativo,2
+eventual tecnico e,NA,tecnic,hora/clase,tecnico,2
+exdirector superior,NA,director,NA,funcionario,2
+fisicofisica medico,NA,medico,NA,profesor,2
+ingeniero a biomedico,NA,medico,NA,profesor,2
+instructor extraescolarhrs b,NA,escola,hora/clase,profesor,2
+inv en cienc med e,NA,inv,NA,investigador,2
+invest en ciencias med c,NA,inv,NA,investigador,2
+invest en ciencias medicas a,NA,inv,NA,investigador,2
+investigado en ciencias medicas c,NA,inv,NA,investigador,2
+investigador a e,NA,inv,NA,investigador,2
+investigador a especializado,NA,inv,NA,investigador,2
+investigador a f,NA,inv,NA,investigador,2
+investigador a i,NA,inv,NA,investigador,2
+investigador asistente b,asist,inv,asistente,investigador,2
+investigador c fam i,NA,inv,NA,investigador,2
+investigador consultor b,NA,inv,NA,investigador,2
+investigador en ciencias med e,NA,inv,NA,investigador,2
+investigador m,NA,inv,NA,investigador,2
+investigador titular a tiempo completo,tit,inv,titular,investigador,2
+investigadora asociada c,asoc,inv,asociado/interino,investigador,2
+investigadora en ciencias medicas e,NA,inv,NA,investigador,2
+investigadorainvestigador titular a,tit,inv,titular,investigador,2
+investigadorinvestigadora en ciencias medicas d,NA,inv,NA,investigador,2
+"jefa de area apoyo a la docencia,profesora asignatura",asign,docen,hora/clase,profesor,2
+"jefa de area hora laborada,profesora asignatura",asign,prof,hora/clase,profesor,2
+jefa de departamento de laboratorios de la licenciatura en medico cirujano,NA,jefa de departa,NA,administrativo,2
+jefa de departamento de recursos financieros,NA,jefa de departa,NA,administrativo,2
+jefa de departamento de vinculacion y esquemas financieros,NA,jefa de departa,NA,administrativo,2
+jefa de departamento de vulnerabiilidad socioambiental en asentamientos humanos,NA,jefa de departa,NA,administrativo,2
+jefa de oficina soporte tecnico,NA,tecnic,NA,tecnico,2
+jefa del centro regional de investigacion acuicola y pesquera en mazatlan,NA,inv,NA,investigador,2
+"jefa del departamento administracion central,profesora asignatura",asign,jefa del departa,hora/clase,profesor,2
+jefa del departamento de documentacion y biblioteca,NA,jefa del departa,NA,administrativo,2
+jefa del departamento de evaluacion de recursos pesqueros en el pacifico norte,NA,jefa del departa,NA,administrativo,2
+jefa del departamento de servicios escolares de la universidad de la sierra juarez,NA,jefa del departa,NA,administrativo,2
+"jefa del departamento de vinculacion, concertacion y difusion de programas academicos",NA,jefa del departa,NA,administrativo,2
+jefatura de departamento en area medica b,NA,jefatura de departa,NA,administrativo,2
+jefatura de departamento estructura mando,NA,jefatura de departa,NA,administrativo,2
+jefatura de departamento g plaza eventual,NA,jefatura de departa,hora/clase,administrativo,2
+jefatura de departamento plaza de estructura mando,NA,jefatura de departa,NA,administrativo,2
+jefatura de la licenciatura en administracion publica,NA,adminis,NA,administrativo,2
+jefatura de la licenciatura en ciencias biomedicas,NA,medica,NA,profesor,2
+jefatura de oficina soporte tecnico,NA,tecnic,NA,tecnico,2
+jefe a control administrativo a de la gerencia de inteligencia e informacion tecnologica,NA,adminis,NA,administrativo,2
+jefe a control administrativo a de la gerencia de procesos termicos,NA,adminis,NA,administrativo,2
+jefe a de departamento de vinculacion,NA,jefe a de departament,NA,administrativo,2
+jefe a del departamento de desarrollo academico,NA,jefe a del departament,NA,administrativo,2
+"jefe de area apoyo a la docencia,profesor investigador de medio tiempo",NA,docen,medio tiempo,investigador,2
+jefe de carrera de la licenciatura en adminitracion publica,NA,jefe de carrera,NA,administrativo,2
+jefe de carrera de la licenciatura en enfermeria,NA,jefe de carrera,NA,administrativo,2
+jefe de carrera de la licenciatura en nutricion,NA,jefe de carrera,NA,administrativo,2
+jefe de de departamento,NA,jefe de de departament,NA,administrativo,2
+jefe de departamento academico de ciencias naturales y exactas,NA,jefe de departament,NA,administrativo,2
+jefe de departamento d,NA,jefe de departament,NA,administrativo,2
+jefe de departamento de asuntos escolares,NA,jefe de departament,NA,administrativo,2
+jefe de departamento de centro de difusion de ciencia y tecnologia,NA,jefe de departament,NA,administrativo,2
+jefe de departamento de diseno de proyectos de lenguas indigenas,NA,jefe de departament,NA,administrativo,2
+jefe de departamento de extension y vinculacion,NA,jefe de departament,NA,administrativo,2
+jefe de departamento de investigacion fonologica y lexica,NA,jefe de departament,NA,administrativo,2
+jefe de departamento de investigacion y desarrollo tecnologico,NA,jefe de departament,NA,administrativo,2
+jefe de departamento de laboratorios de la licenciatura en enfermeria y obstreticia,NA,jefe de departament,NA,administrativo,2
+jefe de departamento de programas institucionales,NA,jefe de departament,NA,administrativo,2
+jefe de departamento de recursos humanos,NA,jefe de departament,NA,administrativo,2
+jefe de departamento de vinculacion,NA,jefe de departament,NA,administrativo,2
+jefe de departamento institucional de tutorias,NA,jefe de departament,NA,administrativo,2
+jefe de departamento inv y posgrado,NA,jefe de departament,NA,administrativo,2
+jefe de depto admvo b,NA,jefe de depto,NA,administrativo,2
+jefe de depto en area medica a,NA,jefe de depto,NA,administrativo,2
+jefe de division academica,NA,academi,NA,administrativo,2
+jefe de division de carrera de iiascoordinador campus tezonapa,NA,jefe de division de carrera,NA,administrativo,2
+jefe de la carrera de ingenieria en acuicultura,NA,jefe de la carrera,NA,administrativo,2
+jefe de la carrera de ingenieria en agricola tropical,NA,jefe de la carrera,NA,administrativo,2
+jefe de la division de la carrera de ingenieria ambiental,NA,jefe de la division de la carrera,NA,administrativo,2
+jefe de la division de la carrera de ingenieria en alimentos,NA,jefe de la division de la carrera,NA,administrativo,2
+"jefe de la unidad de docencia de la licenciatura en actuaria responsable de seguridad, proteccion universitaria y el ambiente",NA,docen,NA,administrativo,2
+"jefe de laboratorio,profesor asignatura",asign,prof,hora/clase,profesor,2
+jefe de oficina de centro de investigacion,NA,inv,NA,investigador,2
+jefe de oficina de programa academico aeronautica,NA,academi,NA,administrativo,2
+jefe de oficina de programa academico diseno industrial,NA,academi,NA,administrativo,2
+jefe de servicios educativos a organismos academicos,NA,academi,NA,administrativo,2
+jefe de servicios medicos,NA,medico,NA,profesor,2
+jefe de sistemas administrativos,NA,adminis,NA,administrativo,2
+jefe de unidadcoord carrera,NA,jefe de unidadcoord carrera,NA,administrativo,2
+jefe de unidadcoord de carrera,NA,jefe de unidadcoord de carrera,NA,administrativo,2
+jefe del departamento,NA,jefe del departament,NA,administrativo,2
+jefe del departamento de bienes patrimoniales,NA,jefe del departament,NA,administrativo,2
+jefe del departamento de desarrollo academico,NA,jefe del departament,NA,administrativo,2
+jefe del departamento de educacion continua e imagen institucional,NA,jefe del departament,NA,administrativo,2
+jefe del departamento de modelacion y pronostico pesquero en el pacifico,NA,jefe del departament,NA,administrativo,2
+jefe del departamento de residencias profesionales y servicios social,NA,jefe del departament,NA,administrativo,2
+jefe del departamento de vinculacion,NA,jefe del departament,NA,administrativo,2
+jefe del departamento historico laboral,NA,jefe del departament,NA,administrativo,2
+jefe del departamentos de desarrollo academico,NA,jefe del departament,NA,administrativo,2
+jefe departamento,NA,jefe departament,NA,administrativo,2
+jefe depto academico,NA,jefe depto,NA,administrativo,2
+jefe depto admivo,NA,jefe depto,NA,administrativo,2
+jefe depto del centro de lenguas,NA,jefe depto,NA,administrativo,2
+jefea de departamento de calidad,NA,jefea de departament,NA,administrativo,2
+jefea de departamento de recursos materiales,NA,jefea de departament,NA,administrativo,2
+jefea de departamento de servicios personales,NA,jefea de departament,NA,administrativo,2
+jefea del area de servicios medicos,NA,medico,NA,profesor,2
+jefea departamento de recursos humanos,NA,jefea departament,NA,administrativo,2
+jefea sustitutoa del departamento de contaduria,NA,jefea sustitutoa del departament,NA,administrativo,2
+laboratorista escuela profesional b,NA,prof,NA,profesor,2
+lider coordinador de proyectos a,NA,coordinador,NA,administrativo,2
+medico a especialista b,NA,medico,NA,profesor,2
+medico a residente i,NA,medico,NA,profesor,2
+"medico de consulta,profesor asignatura",asign,medico,hora/clase,profesor,2
+medico especialistab,NA,medico,NA,profesor,2
+medico general b,NA,medico,NA,profesor,2
+medico residente de grado,NA,medico,NA,profesor,2
+medicoa especialista b,NA,medico,NA,profesor,2
+medicoa general b,NA,medico,NA,profesor,2
+medicomedica especialista b,NA,medico,NA,profesor,2
+medicomedica especialista c,NA,medico,NA,profesor,2
+paramedica en area normativa,NA,medica,NA,profesor,2
+paramedicoa,NA,medico,NA,profesor,2
+persona coordinador administrativo con base academica,NA,coordinador,NA,administrativo,2
+persona director de division,NA,director,NA,funcionario,2
+persona jefe de proyecto con base academica,NA,academi,titular,profesor,2
+persona resp de mesa de sist escolares,NA,escola,NA,administrativo,2
+persona soporte administrativo a c,NA,adminis,NA,administrativo,2
+persona tecnico administrativo,NA,tecnic,NA,tecnico,2
+personal academico profesional medio tiempo titular b,tit,academi,medio tiempo,profesor,2
+plaza jalisco jefe de departamento,NA,jefe de departament,NA,administrativo,2
+prestador de servicios academicos en la secretaria administrativa,NA,academi,NA,profesor,2
+prof asig b,NA,prof,hora/clase,profesor,2
+prof asignatura a,asign,prof,hora/clase,profesor,2
+prof asoc a,asoc,prof,asociado/interino,profesor,2
+prof asoc b,asoc,prof,asociado/interino,profesor,2
+prof asociado a es del inba de tiempo,asoc,prof,asociado/interino,profesor,2
+prof asociado b,asoc,prof,asociado/interino,profesor,2
+prof asociado b es del inba de tiempo,asoc,prof,asociado/interino,profesor,2
+prof e inv asistente a,asist,prof,asistente,investigador,2
+prof e investigador asocamt,asoc,prof,medio tiempo,investigador,2
+prof inv asoc c,asoc,prof,asociado/interino,investigador,2
+profesional c,NA,prof,NA,profesor,2
+profesional ejecutiva,NA,prof,NA,profesor,2
+profesional tecnico b,NA,prof,NA,profesor,2
+profesionista con posgrado e,NA,prof,NA,administrativo,2
+profesionista pasante e,NA,prof,NA,administrativo,2
+profesor a asignatura b con hrs,asign,prof,hora/clase,profesor,2
+profesor a asoc c suplencia,asoc,prof,asociado/interino,profesor,2
+profesor a asociado a a,asoc,prof,asociado/interino,profesor,2
+profesor a asociado a c,asoc,prof,asociado/interino,profesor,2
+profesor a de asignatura a y b,asign,prof,hora/clase,profesor,2
+profesor a de idiomas,NA,prof,NA,profesor,2
+profesor a investigador a asistente b,asist,prof,asistente,investigador,2
+profesor a por asignatura a,asign,prof,hora/clase,profesor,2
+profesor a titular,tit,prof,titular,profesor,2
+profesor a titular b,tit,prof,titular,profesor,2
+profesor a titular c,tit,prof,titular,profesor,2
+profesor artistico,NA,prof,NA,profesor,2
+profesor asignatura b a,asign,prof,hora/clase,profesor,2
+"profesor asignatura,programador de computadora",asign,prof,hora/clase,profesor,2
+"profesor asignatura,secretario escolar de facultad o escuela",asign,prof,hora/clase,profesor,2
+"profesor asignatura,supervisor tecnico,tecnico academico hora laborada",asign,prof,hora/clase,profesor,2
+"profesor asignatura,tecnico academico de medio tiempo",asign,prof,medio tiempo,profesor,2
+profesor asociado b con hrs,asoc,prof,hora/clase,profesor,2
+profesor asociado b ems df,asoc,prof,asociado/interino,profesor,2
+profesor asociado b ems tc df,asoc,prof,asociado/interino,profesor,2
+profesor asociado con,asoc,prof,asociado/interino,profesor,2
+profesor asociado imt,asoc,prof,medio tiempo,profesor,2
+profesor curso de la unidad de posgrado e investigacion,NA,prof,NA,investigador,2
+profesor de carrera b,NA,prof,carrera,profesor,2
+profesor de carrera i zona norte,NA,prof,carrera,profesor,2
+profesor de tiempo comp asoc c,asoc,prof,asociado/interino,profesor,2
+profesor de tiempo completo ainterino,NA,prof,carrera,profesor,2
+profesor de tiempo completo tb,NA,prof,carrera,profesor,2
+profesor de tiempo completo tc,NA,prof,carrera,profesor,2
+"profesor de tiempo completo, titular b",tit,prof,titular,profesor,2
+profesor diplomado en medios de defensa fiscal de la facultad de contaduria y administracion,NA,prof,medio tiempo,profesor,2
+profesor inv titular a,tit,prof,titular,investigador,2
+profesor investigador nivel b,NA,prof,NA,investigador,2
+profesor investigador titular c,tit,prof,titular,investigador,2
+profesor maestria en gestion de la mercadotecnia,maest,prof,NA,profesor,2
+profesor tiempo completo titular a,tit,prof,titular,profesor,2
+profesor tiempo parcial b,NA,prof,hora/clase,profesor,2
+profesor titular a ems tc df,tit,prof,titular,profesor,2
+profesor titular b ems mt for,tit,prof,medio tiempo,profesor,2
+profesor titular b es mt for,tit,prof,medio tiempo,profesor,2
+profesora a,NA,prof,NA,profesor,2
+profesora asignatura b a,asign,prof,hora/clase,profesor,2
+profesora asignatura b hsm,asign,prof,hora/clase,profesor,2
+"profesora asignatura,secretaria escolar de facultad o escuela",asign,prof,hora/clase,profesor,2
+profesora asociada a df t,asoc,prof,asociado/interino,profesor,2
+profesora asociada a df tc,asoc,prof,asociado/interino,profesor,2
+profesora asociada a es for,asoc,prof,asociado/interino,profesor,2
+profesora asociada b,asoc,prof,asociado/interino,profesor,2
+profesora asociada b es tc df,asoc,prof,asociado/interino,profesor,2
+profesora asociada b es tc for,asoc,prof,asociado/interino,profesor,2
+profesora asociado a ems tc df,asoc,prof,asociado/interino,profesor,2
+profesora asociado a es mt df,asoc,prof,medio tiempo,profesor,2
+profesora asociadoa,asoc,prof,asociado/interino,profesor,2
+profesora asociadoa asp,asoc,prof,asociado/interino,profesor,2
+profesora asociadoa c,asoc,prof,asociado/interino,profesor,2
+profesora asociadoa de ingles,asoc,prof,asociado/interino,profesor,2
+profesora asociadoa de mi,asoc,prof,asociado/interino,profesor,2
+profesora asociadoa imt,asoc,prof,medio tiempo,profesor,2
+profesora asociadoa mea,asoc,prof,asociado/interino,profesor,2
+profesora asociadoa mtaut,asoc,prof,medio tiempo,profesor,2
+profesora asociadoa titular iff,asoc,prof,asociado/interino,profesor,2
+profesora asociadoa titular imt,asoc,prof,medio tiempo,profesor,2
+profesora asociadoa titular matematicas,asoc,prof,asociado/interino,profesor,2
+profesora de asignatura tecnicoa docente a,asign,prof,hora/clase,profesor,2
+profesora de tiempo completo a interina,NA,prof,carrera,profesor,2
+profesora de tiempo completo titular c,tit,prof,titular,profesor,2
+profesora investigadora ingenieroa tecnologoa asociado a,asoc,prof,asociado/interino,investigador,2
+profesora investigadora titular a,tit,prof,titular,investigador,2
+"profesora por asignatura, horasemanames",asign,prof,hora/clase,profesor,2
+profesora tiempo completo a,NA,prof,carrera,profesor,2
+profesora titular a df t,tit,prof,titular,profesor,2
+profesora titular a incluyente y no sexista,tit,prof,titular,profesor,2
+profesora titular b df t,tit,prof,titular,profesor,2
+profesora titular b es mt df,tit,prof,medio tiempo,profesor,2
+profesora titular c df t,tit,prof,titular,profesor,2
+profesora titular c ems mt df,tit,prof,medio tiempo,profesor,2
+profr asig b de la division de ingenieria en gestion empresarial,NA,prof,hora/clase,profesor,2
+profr asig b de la division de ingenieria informatica,NA,prof,hora/clase,profesor,2
+ptc,NA,ptc,carrera,profesor,2
+ptc ac de mecatronica,NA,ptc,carrera,profesor,2
+responsable de la unidad de coordinacion de centros de investigacion,NA,inv,NA,investigador,2
+secretaria de administracion,NA,secreta,NA,administrativo,2
+secretaria de direccion,NA,secreta,NA,administrativo,2
+secretaria de director de area,NA,secreta,NA,administrativo,2
+secretaria de directora de area,NA,secreta,NA,administrativo,2
+secretaria de extension y vinculacion,NA,secreta,NA,administrativo,2
+secretaria de subdireccion,NA,secreta,NA,administrativo,2
+secretaria del director,NA,secreta,NA,administrativo,2
+secretaria directiva,NA,secreta,NA,administrativo,2
+secretaria ejecutivo,NA,secreta,NA,administrativo,2
+secretaria general de acuerdos,NA,secreta,NA,administrativo,2
+secretariao de jefe de depto,NA,secreta,NA,administrativo,2
+secretario a academico,NA,secreta,NA,administrativo,2
+secretario de director de area,NA,secreta,NA,administrativo,2
+secretario de extension y vinculacion,NA,secreta,NA,administrativo,2
+secretario en administracion central,NA,secreta,NA,administrativo,2
+secretario proyectista,NA,secreta,NA,administrativo,2
+secretario tecnico de la oficina de rectoria,NA,secreta,NA,administrativo,2
+secretario tecnico general,NA,secreta,NA,administrativo,2
+secretarioa ejecutivoa,NA,secreta,NA,administrativo,2
+"soporte academica,tecnica academica hora laborada",NA,academi,hora/clase,tecnico,2
+sub jefejefa educacion e investigacion enfermeria,NA,inv,NA,administrativo,2
+subadministrador,NA,adminis,NA,administrativo,2
+"subcoordinador general, financiero y logistico",NA,coordinador,NA,administrativo,2
+subdireccion de area b eventual,NA,subdire,hora/clase,administrativo,2
+subdireccion de area f eventual,NA,subdire,hora/clase,administrativo,2
+subdirector a de programa academico,NA,subdire,NA,funcionario,2
+subdirector administrativo b,NA,subdire,NA,administrativo,2
+subdirector de analisis e integracion de informacion cientifico tecnica,NA,subdire,NA,funcionario,2
+subdirector de area de centro integral de negocios,NA,subdire,NA,administrativo,2
+subdirector de centro de apoyo educativo,NA,subdire,NA,administrativo,2
+subdirector de centro de informacion y documentacion cientifica,NA,subdire,NA,administrativo,2
+subdirector de ensenanza,NA,subdire,NA,funcionario,2
+subdirector de planeacion y desarrollo institucional,NA,subdire,NA,administrativo,2
+subdirector de programa academico,NA,subdire,NA,funcionario,2
+subdirector de vinculacion y extension,NA,subdire,NA,administrativo,2
+subdirectora a,NA,subdire,NA,administrativo,2
+subdirectora administrativo,NA,subdire,NA,administrativo,2
+subdirectora de area academica,NA,subdire,NA,funcionario,2
+subdirectora de educacion continua a distancia,NA,subdire,NA,funcionario,2
+subdirectora de investigacion,NA,subdire,NA,funcionario,2
+subdirectora de investigacion y divulgacion cientifica,NA,subdire,NA,funcionario,2
+subdirectora de prospectivas de emisiones de gases y compuestos de efecto invernadero,NA,subdire,NA,funcionario,2
+subdirectora de servicios auxiliares de diagnostico y paramedicos,NA,subdire,asistente,administrativo,2
+subsecretario admvo y academ,NA,secreta,NA,administrativo,2
+supervisora medicoa en area normativa,NA,medico,NA,profesor,2
+supervisora profesional en trabajo social c,NA,prof,NA,profesor,2
+supervisora tecnico,NA,tecnic,NA,tecnico,2
+supervisora tecnicoa,NA,tecnic,NA,tecnico,2
+tecnica de guarderia,NA,tecnic,NA,tecnico,2
+tecnica docente asociado a es tc df,asoc,tecnic,asociado/interino,tecnico,2
+tecnica especializado de laboratorio b,NA,tecnic,NA,tecnico,2
+tecnicatecnico titular a,tit,tecnic,titular,tecnico,2
+tecnico a de oper y serv en mtto general,NA,tecnic,medio tiempo,tecnico,2
+tecnico a en montaje museografico,NA,tecnic,NA,tecnico,2
+tecnico a esp serigrafista museografico a,NA,tecnic,NA,tecnico,2
+tecnico a especializado a en reproduc prehispa,NA,tecnic,NA,tecnico,2
+tecnico a laboratorista b,NA,tecnic,NA,tecnico,2
+tecnico academico hora clase de asociado c,asoc,tecnic,hora/clase,tecnico,2
+tecnico academico medio tiempo asociado a,asoc,tecnic,medio tiempo,tecnico,2
+tecnico academico tiempo completo b,NA,tecnic,carrera,tecnico,2
+tecnico administrativo d,NA,tecnic,NA,tecnico,2
+tecnico bibliotecario b,NA,tecnic,NA,tecnico,2
+tecnico de audiovisuales,NA,tecnic,NA,tecnico,2
+tecnico de procesos c,NA,tecnic,NA,tecnico,2
+tecnico docente asignatura c ems df,asign,tecnic,hora/clase,tecnico,2
+tecnico docente asociado a,asoc,tecnic,asociado/interino,tecnico,2
+tecnico en contabilidad,NA,tecnic,NA,tecnico,2
+tecnico en electronica c,NA,tecnic,NA,tecnico,2
+tecnico en manejo de equipo multimedio,NA,tecnic,medio tiempo,tecnico,2
+tecnico en seguridad radiologica b,NA,tecnic,NA,tecnico,2
+tecnico en sistemaspr b,NA,tecnic,NA,tecnico,2
+tecnico especializado academico administrativo,NA,tecnic,NA,tecnico,2
+tecnico laboratorista de bioterio,NA,tecnic,NA,tecnico,2
+tecnico medio,NA,tecnic,medio tiempo,tecnico,2
+tecnicoa,NA,tecnic,NA,tecnico,2
+tecnicoa de procesos c,NA,tecnic,NA,tecnico,2
+tecnicotecnica en estadistica en area medica,NA,tecnic,NA,tecnico,2
+tecnicotecnica titular a,tit,tecnic,titular,tecnico,2
+tecnicotecnica titular b,tit,tecnic,titular,tecnico,2
+terapista profesional en rehabilitacion incluyente y no sexista,NA,prof,NA,profesor,2
+abogada,NA,abogad,NA,administrativo,1
+abogado a,NA,abogad,NA,administrativo,1
+abogado delegado,NA,abogad,NA,administrativo,1
+abogado dictaminador,NA,abogad,NA,administrativo,1
+abogado general a,NA,abogad,NA,administrativo,1
+abogadoa,NA,abogad,NA,administrativo,1
+academia de administracion,NA,academi,NA,profesor,1
+admin d estudios incorporados,NA,estudio,NA,profesor,1
+administrador de facultad,NA,adminis,NA,administrativo,1
+administrador de laboratorio a,NA,adminis,NA,administrativo,1
+administrador de tecnologias de informacion a,NA,adminis,NA,administrativo,1
+administrador de tecnologias de informacion b,NA,adminis,NA,administrativo,1
+administrador ejecutivo b,NA,adminis,NA,administrativo,1
+administrativa,NA,adminis,NA,administrativo,1
+administrativo asignadopr a,asign,adminis,hora/clase,administrativo,1
+analista administrativa del programa de maestria en ciencias sociales,maest,analista,NA,administrativo,1
+analista administrativo a,NA,analista,NA,administrativo,1
+analista administrativo incluyente y no sexista,NA,analista,NA,administrativo,1
+analista de diseno web,NA,analista,NA,administrativo,1
+analista de enlace y gestion academica,NA,analista,NA,administrativo,1
+analista de evaluacion y gestion academica,NA,analista,NA,administrativo,1
+analista de programacion y presupuesto,NA,analista,NA,administrativo,1
+analista de sistemas y procesos b incluyente y no sexista,NA,analista,NA,administrativo,1
+analista dis y desarrollo web,NA,analista,NA,administrativo,1
+analista especializada,NA,analista,NA,administrativo,1
+analista especializado a,NA,analista,NA,administrativo,1
+analista especializadoa,NA,analista,NA,administrativo,1
+analista profesional,NA,analista,NA,administrativo,1
+analista progr p la capac acad,NA,analista,NA,administrativo,1
+analista sist prof e,NA,analista,NA,administrativo,1
+analista tecnico a fam gn,NA,analista,NA,administrativo,1
+analista tecnico en el laboratorio de ingenieria civil,NA,analista,NA,administrativo,1
+asesor de director general,NA,director,NA,administrativo,1
+asesoria en programas academicos,NA,academi,NA,profesor,1
+asesoria profesional en medios de comunicacion,NA,prof,medio tiempo,profesor,1
+asesoria profesional en procesos academicos,NA,prof,NA,profesor,1
+asesoria profesional en procesos de construccion,NA,prof,NA,profesor,1
+asesoria profesional en procesos juridicos,NA,prof,NA,profesor,1
+asesoria profesional en sistemas computacionales,NA,prof,carrera,profesor,1
+asesoria tecnica en programas academicos,NA,tecnic,NA,tecnico,1
+asistente administrativa de posgrado,asist,adminis,asistente,administrativo,1
+asistente administrativoa,asist,adminis,asistente,administrativo,1
+asistente admvo de director de divsecretario acad,asist,director,asistente,administrativo,1
+asistente de direccion administrativa,asist,adminis,asistente,administrativo,1
+asistente de enlace academico,asist,academi,asistente,profesor,1
+asistente de evaluacion y gestion academica,asist,academi,asistente,profesor,1
+"asistente de funcionario,profesora asignatura,secretaria general de facultad o escuela",asist,funcionario,hora/clase,profesor,1
+asistente de investigador c,asist,inv,asistente,investigador,1
+asistente de la direccion academica,asist,academi,asistente,profesor,1
+asistente de la secretaria tecnica,asist,secreta,asistente,administrativo,1
+asistente de la subdireccion academica,asist,academi,asistente,profesor,1
+asistente de secretaria,asist,secreta,asistente,administrativo,1
+asistente de subdireccion administrativa,asist,adminis,asistente,administrativo,1
+asistente de tecnico administrativo especializado en contabilid,asist,tecnic,asistente,administrativo,1
+aux de procesos tecnicos,NA,tecnic,asistente,tecnico,1
+aux tecnico laboratorista,NA,tecnic,asistente,tecnico,1
+auxiliar academico administrativo a,NA,academi,asistente,profesor,1
+auxiliar academicoadministrativo general,NA,academi,asistente,profesor,1
+auxiliar administrativao,NA,adminis,asistente,administrativo,1
+auxiliar de secretaria,NA,secreta,asistente,administrativo,1
+auxiliar docente yo investigador hora clase de asociado a,asoc,docen,hora/clase,investigador,1
+auxiliar secretarial a,NA,secreta,asistente,administrativo,1
+auxiliar tecnico b,NA,tecnic,asistente,tecnico,1
+auxiliar tecnico laboratorista,NA,tecnic,asistente,tecnico,1
+ayudanteayudanta de investigador en ciencias medicas b,ayud,inv,asistente,investigador,1
+ayudanteayudanta de investigador en ciencias medicas c,ayud,inv,asistente,investigador,1
+bibliotecario a n m,NA,biblio,NA,tecnico,1
+bibliotecario a nm,NA,biblio,NA,tecnico,1
+bibliotecario de circulacion y orientacion,NA,biblio,NA,tecnico,1
+bibliotecario diplomado c,NA,biblio,NA,tecnico,1
+bibliotecarioa,NA,biblio,NA,tecnico,1
+biblioteconoma a,NA,biblio,NA,tecnico,1
+c tecnica titular a,tit,tecnic,titular,tecnico,1
+capturista del departamento de desarrollo academico,NA,academi,NA,profesor,1
+catedratica c pasig,NA,cated,hora/clase,profesor,1
+catedratico a mt,NA,cated,medio tiempo,profesor,1
+catedratico a por asignatura,asign,cated,hora/clase,profesor,1
+catedratico b mt,NA,cated,medio tiempo,profesor,1
+catedratico b pasig,NA,cated,hora/clase,profesor,1
+catedratico c mt,NA,cated,medio tiempo,profesor,1
+catedratico c pasig,NA,cated,hora/clase,profesor,1
+control escolar,NA,escola,NA,administrativo,1
+coor del programa de maestria y doctorado en estudios sociales,maest,estudio,NA,administrativo,1
+coord a medico a en area normativa a,NA,medico,NA,profesor,1
+coord academico de posgrado,NA,academi,NA,administrativo,1
+coord de prof dictaminadores,NA,prof,NA,profesor,1
+coord gral de investigacion y postgrado,NA,inv,NA,investigador,1
+coord medico en area normativ,NA,medico,NA,profesor,1
+coord paramedico en area normativa a,NA,medico,NA,profesor,1
+coorda medicoa en area normativa a,NA,medico,NA,profesor,1
+coordinacion academica,NA,academi,NA,administrativo,1
+coordinacion general academica,NA,academi,NA,administrativo,1
+coordinador a de departamento de unidad a de procesos internos,NA,coordinador,NA,administrativo,1
+coordinador a nivel c,NA,coordinador,NA,administrativo,1
+coordinador a paramedico en area normativa a,NA,coordinador,NA,tecnico,1
+"coordinador academico de apoyo a la docencia,profesor asignatura",asign,coordinador,hora/clase,profesor,1
+"coordinador academico de apoyo a la docencia,profesor asignatura,soporte academico",asign,coordinador,hora/clase,profesor,1
+"coordinador academico de apoyo a la docencia,profesor asignatura,tecnico academico hora laborada",asign,coordinador,hora/clase,profesor,1
+coordinador academico de ingenieria en mecatronica,NA,coordinador,NA,administrativo,1
+coordinador academico e,NA,coordinador,NA,administrativo,1
+coordinador academico f,NA,coordinador,NA,administrativo,1
+"coordinador academico hora laborada,profesor asignatura,soporte academico",asign,coordinador,hora/clase,profesor,1
+"coordinador administrativo de dependencia,profesor asignatura",asign,coordinador,hora/clase,profesor,1
+coordinador de departamento c,NA,coordinador,NA,administrativo,1
+coordinador de departamento e,NA,coordinador,NA,administrativo,1
+"coordinador de difusion cultural, extension y vinculacion",NA,coordinador,NA,administrativo,1
+coordinador de dosencia,NA,coordinador,NA,administrativo,1
+coordinador de especialidad,NA,coordinador,NA,administrativo,1
+coordinador de evaluacion docente,NA,coordinador,NA,administrativo,1
+coordinador de maestria en ciencias aplicadas,maest,coordinador,NA,administrativo,1
+coordinador de plantel,NA,coordinador,NA,administrativo,1
+coordinador de programa educativo de biologia,NA,coordinador,NA,administrativo,1
+coordinador de programa educativo de ingenieria de software,NA,coordinador,NA,administrativo,1
+coordinador de programa educativo ingenieria en seguridad informatica y redes,NA,coordinador,NA,administrativo,1
+coordinador de programas academicos investigacion y vinculacion,NA,coordinador,NA,administrativo,1
+coordinador de promociones,NA,coordinador,NA,administrativo,1
+coordinador de sist aprend indiv,NA,coordinador,NA,administrativo,1
+coordinador de supervision,NA,coordinador,NA,administrativo,1
+coordinador del programa educativo de doctorado en innovacion y administracion en las organizaciones en modalidad virtual,NA,coordinador,NA,administrativo,1
+coordinador del programa educativo de posgrado en sistemas computacionales,NA,coordinador,NA,administrativo,1
+coordinador docente de matematicas,NA,coordinador,NA,administrativo,1
+coordinador general de administracion,NA,coordinador,NA,administrativo,1
+coordinador general de crecimiento verde,NA,coordinador,NA,administrativo,1
+coordinador general de mitigacion del cambio climatico,NA,coordinador,NA,administrativo,1
+coordinador general de tutorias,NA,coordinador,NA,administrativo,1
+coordinador titular autoridad investigad,tit,coordinador,NA,administrativo,1
+"coordinadora academica de apoyo a la docencia,profesora asignatura,tecnica academica hora laborada",asign,coordinador,hora/clase,profesor,1
+coordinadora administrativa administracion central,NA,coordinador,NA,administrativo,1
+coordinadora administrativoa tecnicoa,NA,coordinador,NA,administrativo,1
+coordinadora de area,NA,coordinador,NA,administrativo,1
+coordinadora de area economico administrativa,NA,coordinador,NA,administrativo,1
+coordinadora de carrera,NA,coordinador,NA,administrativo,1
+coordinadora de division,NA,coordinador,NA,administrativo,1
+coordinadora de educacion continua y a distancia,NA,coordinador,NA,administrativo,1
+coordinadora de la licenciatura en psicologia,NA,coordinador,NA,administrativo,1
+coordinadora de posgrado,NA,coordinador,NA,administrativo,1
+coordinadora de profesionales dictaminadores,NA,coordinador,NA,administrativo,1
+coordinadora de programa educativo de maestria en biotecnologia biologica,maest,coordinador,NA,administrativo,1
+coordinadora de recursos humanos,NA,coordinador,NA,administrativo,1
+coordinadora del programa academico de maestria de educacion interculturalcpmei,maest,coordinador,NA,administrativo,1
+coordinadora general,NA,coordinador,NA,administrativo,1
+coordinadora incluyente y no sexista,NA,coordinador,NA,administrativo,1
+coordinadora proyectos agricolas,NA,coordinador,NA,administrativo,1
+dep bibliotecario documentalista,NA,biblio,NA,tecnico,1
+departamento de posgrado e investigacion,NA,inv,NA,investigador,1
+desarrollo academico,NA,academi,NA,administrativo,1
+direccion,NA,direc,NA,funcionario,1
+direccion academico,NA,direc,NA,funcionario,1
+direccion de area b plaza eventual,NA,direc,hora/clase,administrativo,1
+direccion de area e plaza eventual,NA,direc,hora/clase,administrativo,1
+direccion de area f plaza eventual,NA,direc,hora/clase,administrativo,1
+direccion de extencion universitaria y vinculacion,NA,direc,NA,funcionario,1
+direccion de inovacion,NA,direc,NA,funcionario,1
+direccion de instituto de investigacion sobre la salud publica,NA,direc,NA,funcionario,1
+"direccion de investigacion, desarrollo comunitario y cultura",NA,direc,NA,funcionario,1
+direccion de planeacion y vinculacion,NA,direc,NA,funcionario,1
+"direccion de planeacion, programacion y evaluacion",NA,direc,NA,funcionario,1
+direccion de programa academico de ibio,NA,direc,NA,funcionario,1
+direccion de programa academico de itm,NA,direc,NA,funcionario,1
+direccion ejecutiva de difusion cultural y extension universitaria,NA,direc,NA,funcionario,1
+direccion ejecutiva de investigacion y posgrado,NA,direc,NA,funcionario,1
+directivo,NA,direc,NA,funcionario,1
+director a de centro de investigacion regional,NA,director,NA,funcionario,1
+director a del centro nacional de investigacion disciplinaria en fisiologia y mejoramiento animal,NA,director,NA,funcionario,1
+director academico de tecnologias de la informacion,NA,director,NA,funcionario,1
+director administrativo admvo,NA,director,NA,administrativo,1
+"director artistico de sueldo base,profesor artistico",NA,director,NA,funcionario,1
+director de area de administracion,NA,director,NA,funcionario,1
+director de area de ensenanza,NA,director,NA,funcionario,1
+director de desarrollo academico,NA,director,NA,funcionario,1
+director de division academica economica administrativa,NA,director,NA,funcionario,1
+director de economia ambiental y de recursos naturales,NA,director,NA,funcionario,1
+director de educacion del instituto nacional de cardiologia ignacio chavez,NA,director,NA,funcionario,1
+director de escuela de ensenanzas artisticas,NA,director,NA,funcionario,1
+director de instituto de investigacion de estudios municipales,NA,director,NA,funcionario,1
+director de investigacion para estrategias de desarrollo bajo en carbono,NA,director,NA,funcionario,1
+director de investigacion y posgrado,NA,director,NA,funcionario,1
+"director de investigacion, desarrollo comunitario y cultura",NA,director,NA,funcionario,1
+director de la division de carrera de ingenieria industrial,NA,director,NA,funcionario,1
+director de la division de carrera de sistemas automotrices,NA,director,NA,funcionario,1
+director de la division de ciencias naturales,NA,director,NA,funcionario,1
+director de la unidad de investigacion e innovacion educativa,NA,director,NA,funcionario,1
+director de planeacion,NA,director,NA,funcionario,1
+director de programa academico de ingenieria biomedica,NA,director,NA,funcionario,1
+director de programa academico de ingenieria en biotecnologia,NA,director,NA,funcionario,1
+director de programa academico de ingenieria en energia,NA,director,NA,funcionario,1
+director de programa academico de ingenieria en tecnologias de la informacion,NA,director,NA,funcionario,1
+director de programa de ibio,NA,director,NA,funcionario,1
+"director de programa educativode ingenieria en diseno industrial, ingenieria en mecatronica e ingenieria civil",NA,director,NA,funcionario,1
+director de programas academicos,NA,director,NA,funcionario,1
+director de riesgos por cambio climatico y adaptacion,NA,director,NA,funcionario,1
+director de servicios academicos,NA,director,NA,funcionario,1
+director de servicios ambientales hidrologicos y adaptacion al cambio climatico con enfoque de cuenc,NA,director,NA,funcionario,1
+director de tecnologias de la informacion y comunicacion,NA,director,NA,funcionario,1
+director de unidad,NA,director,NA,funcionario,1
+director de unidad academica,NA,director,NA,funcionario,1
+director de unidad academica de ingenieria mecatronica,NA,director,NA,funcionario,1
+director de vinculacion comunitaria,NA,director,NA,funcionario,1
+"director de vinculacion, difusion y extension universitaria",NA,director,NA,funcionario,1
+director del centro de negocios,NA,director,NA,funcionario,1
+director del instituto de ciencias sociales y humanidades,NA,director,NA,funcionario,1
+director div acad,NA,director,NA,funcionario,1
+director div academica,NA,director,NA,funcionario,1
+director general adjunto,NA,director,NA,funcionario,1
+director general de centros universitarios y unidades academicas profesionales region a,NA,director,NA,funcionario,1
+director general de docencia,NA,director,NA,funcionario,1
+director juridico,NA,director,NA,funcionario,1
+director regional,NA,director,NA,funcionario,1
+directora academica de nivel superior,NA,director,NA,funcionario,1
+directora alumniversitario,NA,director,NA,funcionario,1
+"directora artistica de sueldo base,profesora artistica",NA,director,NA,funcionario,1
+directora de ensenanza y divulgacion,NA,director,NA,funcionario,1
+directora de investigacion,NA,director,NA,funcionario,1
+directora de la division de ciencias de la salud,NA,director,NA,funcionario,1
+directora de proyectos estrategicos en tecnologias de bajo en carbono,NA,director,NA,funcionario,1
+directora general academica,NA,director,NA,funcionario,1
+directordirectora de educacion,NA,director,NA,funcionario,1
+directordirectora de investigacion,NA,director,NA,funcionario,1
+directorescuelas y facultades,NA,director,NA,funcionario,1
+docente asesor,NA,docen,NA,profesor,1
+docente de asociado a,asoc,docen,asociado/interino,profesor,1
+docente investigador,NA,docen,NA,investigador,1
+docente profesor asignatura a,asign,docen,hora/clase,profesor,1
+docente ptc,NA,docen,carrera,profesor,1
+docente y comision estatal de investigacion,NA,docen,NA,investigador,1
+docente y coordinador del programa de doctorado,NA,docen,NA,administrativo,1
+docente y coordinadora de difusion,NA,docen,NA,administrativo,1
+"docente, comision investigacion y posgrado",NA,docen,NA,investigador,1
+encaragada del departamento de servicios escolares,NA,escola,NA,administrativo,1
+encargada de departamento de residencia profesional y servicio social,NA,prof,NA,profesor,1
+encargada de inventarios,NA,inv,NA,investigador,1
+encargada de la subdireccion de posgrado e investigacion,NA,inv,NA,investigador,1
+encargada de secretaria academica,NA,secreta,NA,administrativo,1
+encargado a del despacho de la secretaria de extension y vinculacion,NA,secreta,NA,administrativo,1
+encargado administrativo,NA,adminis,NA,administrativo,1
+encargado de apoyo tecnico normativo,NA,tecnic,asistente,tecnico,1
+encargado de la direccion de programa academico,NA,academi,NA,administrativo,1
+encargado de la subdireccion de posgrado e investigacion,NA,inv,NA,investigador,1
+encargado de laboratorio de ciencias biomedicas,NA,medica,NA,profesor,1
+encargado de programas de apoyo academico,NA,academi,asistente,administrativo,1
+encargado de unidad academica de ingenieria en nanotecnologia,NA,academi,NA,administrativo,1
+encargado del departamento academico,NA,academi,NA,administrativo,1
+encargado del despacho de la direccion academica,NA,academi,NA,administrativo,1
+encargado del despacho de la secretaria academica,NA,secreta,NA,administrativo,1
+encargado del despacho de la subdireccion academica,NA,academi,NA,administrativo,1
+encargado del despacho de la subdireccion administrativa,NA,adminis,NA,administrativo,1
+encargadoa de area asuntos escolares,NA,escola,NA,administrativo,1
+encargadoa de servicios bibliotecarios,NA,biblio,NA,tecnico,1
+encargador a del departamento de formacion y desarrollo profesional de la coordinacion investigacion y posgrado,NA,prof,NA,investigador,1
+enfermera general tecnica,NA,tecnic,NA,tecnico,1
+enfermera o general tecnica o,NA,tecnic,NA,tecnico,1
+espec en prod control e invest de biol y reac,NA,inv,NA,investigador,1
+expositor de catedra especialidadmaestria,NA,cated,NA,profesor,1
+facilitador educativo ingles,NA,facilitador educativo,NA,profesor,1
+funcionario,NA,funcionario,NA,funcionario,1
+gestor administrativo cm,NA,adminis,NA,administrativo,1
+ing de soporte tecnico nm,NA,tecnic,NA,tecnico,1
+ingeniero a biomedicoa,NA,medico,NA,profesor,1
+invest en ciencias medicas d,NA,inv,NA,investigador,1
+investigador a asociado a,asoc,inv,asociado/interino,investigador,1
+investigador a c,NA,inv,NA,investigador,1
+investigador a j,NA,inv,NA,investigador,1
+investigador a k,NA,inv,NA,investigador,1
+investigador a l,NA,inv,NA,investigador,1
+investigador analista de informatica,NA,inv,NA,investigador,1
+investigador atitular c,NA,inv,titular,investigador,1
+investigador en ciencias med f,NA,inv,NA,investigador,1
+investigador especializado a,NA,inv,NA,investigador,1
+investigador k,NA,inv,NA,investigador,1
+investigador tecnico,NA,inv,NA,investigador,1
+investigador titular b tiempo,tit,inv,titular,investigador,1
+investigadora asociada b,asoc,inv,asociado/interino,investigador,1
+investigadora b,NA,inv,NA,investigador,1
+investigadora d,NA,inv,NA,investigador,1
+investigadorainvestigador asociada o b,asoc,inv,asociado/interino,investigador,1
+investigadorinvestigadora asociada o c,asoc,inv,asociado/interino,investigador,1
+investigadorinvestigadora asociado a b,asoc,inv,asociado/interino,investigador,1
+investigadorinvestigadora titular a,tit,inv,titular,investigador,1
+investigadorinvestigadora titular c,tit,inv,titular,investigador,1
+"jefa de area hora laborada,profesora asignatura,soporte academica",asign,prof,hora/clase,profesor,1
+jefa de departamento b,NA,jefa de departa,NA,administrativo,1
+jefa de departamento de analisis espacial de las especies y sus habitat para la adaptacion al cambio climatico,NA,jefa de departa,NA,administrativo,1
+jefa de departamento de archivo de concentracion,NA,jefa de departa,NA,administrativo,1
+jefa de departamento de area basica de la licenciatura en enfermeria y obstetricia,NA,jefa de departa,NA,administrativo,1
+jefa de departamento de area basica de la licenciatura en enfermeria y obstreticia,NA,jefa de departa,NA,administrativo,1
+jefa de departamento de campos clinicos,NA,jefa de departa,NA,administrativo,1
+jefa de departamento de carrera negocios internacionales,NA,jefa de departa,NA,administrativo,1
+jefa de departamento de desarrollo humano,NA,jefa de departa,NA,administrativo,1
+jefa de departamento de evaluacion de riesgos al ambiente,NA,jefa de departa,NA,administrativo,1
+jefa de departamento de posgrado e investigacion,NA,jefa de departa,NA,administrativo,1
+jefa de departamento de vinculacion,NA,jefa de departa,NA,administrativo,1
+jefa de depto de comunicacion social e imagen institucional,NA,jefa de depto,NA,administrativo,1
+jefa de division de estudios de postgrado,NA,estudio,NA,administrativo,1
+"jefa de seccion,profesora asignatura",asign,prof,hora/clase,profesor,1
+jefa de unidad de estudios superiores san jose del rincon,NA,estudio,NA,administrativo,1
+jefa del centro de investigacion acuicola y pesquera en mazatlan,NA,inv,NA,investigador,1
+jefa del departamento de ciencias basicas,NA,jefa del departa,NA,administrativo,1
+jefa del departamento de desarrollo y evaluacion institucional,NA,jefa del departa,NA,administrativo,1
+jefa del departamento de estadistica e informatica en el pacifico,NA,jefa del departa,NA,administrativo,1
+jefa del departamento de estrategias de internacionalizacion,NA,jefa del departa,NA,administrativo,1
+jefa del departamento de recursos humanos,NA,jefa del departa,NA,administrativo,1
+jefa departamento recursos materiales,NA,jefa departa,NA,administrativo,1
+jefa depto servicios escolares,NA,jefa depto,NA,administrativo,1
+jefatura de departamento b plaza eventual,NA,jefatura de departa,hora/clase,administrativo,1
+jefatura de departamento de difusion de la cultura y el deporte,NA,jefatura de departa,NA,administrativo,1
+jefatura de departamento de recursos humanos,NA,jefatura de departa,NA,administrativo,1
+jefatura de departamento de servicios personales,NA,jefatura de departa,NA,administrativo,1
+jefe a administrativo,NA,adminis,NA,administrativo,1
+jefe a de departamento de desarrollo academico,NA,jefe a de departament,NA,administrativo,1
+jefe a de departamento de residencias profesionales y servicio social,NA,jefe a de departament,NA,administrativo,1
+jefe a de departamento de servicios personales,NA,jefe a de departament,NA,administrativo,1
+jefe a del departamento de editorial estatal b,NA,jefe a del departament,NA,administrativo,1
+jefe a del departamento de programas de posgrado de la direccion de investigacion y posgrado,NA,jefe a del departament,NA,administrativo,1
+jefe administrativo investigador analista de sistemas e inf,NA,adminis,NA,investigador,1
+jefe administrativo responsable tecnico del foro de exp,NA,adminis,NA,administrativo,1
+"jefe de area apoyo a la docencia,jefe de unidad de apoyo a la docencia,profesor asignatura",asign,docen,hora/clase,profesor,1
+"jefe de area hora laborada,profesor asignatura,soporte academico",asign,prof,hora/clase,profesor,1
+jefe de area secretaria ejecutiva,NA,secreta,NA,administrativo,1
+jefe de biblioteca,NA,biblio,NA,tecnico,1
+jefe de carrera de la ingenieria en agroindustrias,NA,jefe de carrera,NA,administrativo,1
+jefe de control escolar,NA,escola,NA,administrativo,1
+"jefe de departamento administracion central,profesor asignatura",asign,jefe de departament,hora/clase,profesor,1
+jefe de departamento de analisis de recurso hidrico ante la variablidad climatica,NA,jefe de departament,NA,administrativo,1
+"jefe de departamento de analisis, costos y presupuestos",NA,jefe de departament,NA,administrativo,1
+jefe de departamento de apoyo de centros de desarrollo infantil,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de area basica de la licenciatura en enfermeria y obstreticia,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de asesorias y tutorias,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de calidad,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de centro de educacion continua,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de control escolar,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de culturales y deportivas,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de difusion cultural,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de extension universitaria,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de fomento del multilinguismo,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de gestion institucional,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de laboratorio de la licenciatura en enfermeria y obstetricia,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de laboratorios de la licenciatura en medico cirujano,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de librerias y seguimiento de piflex,NA,jefe de departament,NA,administrativo,1
+"jefe de departamento de metodologias de mitigacion en los sectores energia, transporte y procesos industriales",NA,jefe de departament,NA,administrativo,1
+jefe de departamento de planeacion y evaluacion virtual,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de posgrado e investigacion,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de promocion laboral y capacitacion,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de recursos materiales y servicios,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de servicios universitarios,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de supervision de obra,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de unidad de investigaciones en biotecnologia biomedica,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de vinculacion y difusion,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de vinculacion y esquemas financieros,NA,jefe de departament,NA,administrativo,1
+jefe de departamento de vulnerabilidad socioambiental en asentamientos humanos,NA,jefe de departament,NA,administrativo,1
+jefe de departamento homologado,NA,jefe de departament,NA,administrativo,1
+jefe de departamento inicial,NA,jefe de departament,NA,administrativo,1
+jefe de depto de investigacion y desarrollo tecnologico,NA,jefe de depto,NA,administrativo,1
+jefe de depto en area med a,NA,jefe de depto,NA,administrativo,1
+jefe de division de carrera de ingenieria en innovacion agricola sustentable,NA,jefe de division de carrera,NA,administrativo,1
+jefe de division de la carrera de ingenieria ambiental,NA,jefe de division de la carrera,NA,administrativo,1
+jefe de division de la carrera de ingenieria en electromecanica,NA,jefe de division de la carrera,NA,administrativo,1
+jefe de dvision academica de ing bioquimica,NA,academi,NA,administrativo,1
+jefe de ensenanza e investigacion,NA,inv,NA,investigador,1
+jefe de la carrera de licenciatura en ciencias ambientales,NA,jefe de la carrera,NA,administrativo,1
+jefe de la division de carrera de ing electromecanica,NA,jefe de la division de carrera,NA,administrativo,1
+jefe de la division de estudios de posgrado,NA,estudio,NA,administrativo,1
+jefe de la division de la carrera de ingenieria bioquimica,NA,jefe de la division de la carrera,NA,administrativo,1
+jefe de oficina bibliotecario documentalista,NA,biblio,NA,tecnico,1
+jefe de oficina tecnica de consejo divisional,NA,tecnic,NA,tecnico,1
+jefe de seccion de operacion en unidades academicas,NA,academi,NA,administrativo,1
+jefe de seccionjefe de seguimiento academico de fondos federales,NA,academi,NA,administrativo,1
+jefe de unidad de estudios superiores coatepec harinas,NA,estudio,NA,administrativo,1
+jefe del area de servicios medicos,NA,medico,NA,profesor,1
+jefe del centro regional de investigacion pesquera en bahia de banderas,NA,inv,NA,investigador,1
+jefe del centro regional de investigacion pesquera en ciudad del carmen,NA,inv,NA,investigador,1
+jefe del del depto de vinculacion,NA,jefe del del depto,NA,administrativo,1
+jefe del departamente de asesorias y tutorias,NA,jefe del departament,NA,administrativo,1
+jefe del departamento de administracion y estudios economicos en el pacifico norte,NA,jefe del departament,NA,administrativo,1
+jefe del departamento de desarrollo de la investigacion y proyectos externos,NA,jefe del departament,NA,administrativo,1
+jefe del departamento de difusion cultural,NA,jefe del departament,NA,administrativo,1
+jefe del departamento de evaluacion de recursos pesqueros en el pacifico norte,NA,jefe del departament,NA,administrativo,1
+jefe del departamento de recursos financieros y humanos,NA,jefe del departament,NA,administrativo,1
+jefe del departamento de recursos humanos,NA,jefe del departament,NA,administrativo,1
+jefe del departamento de sistemas de captura en el pacifico sur,NA,jefe del departament,NA,administrativo,1
+jefe del depto de vinculacion,NA,jefe del depto,NA,administrativo,1
+jefe depto residencias y serv social,NA,jefe depto,NA,administrativo,1
+jefe depto servicios escolares,NA,jefe depto,NA,administrativo,1
+jefe sustituto del departamento de arte y gestion,NA,jefe sustituto del departament,NA,administrativo,1
+jefe sustituto del departamento de fisiologia y farmacologia,NA,jefe sustituto del departament,NA,administrativo,1
+jefe sustituto del departamento de ingenieria automotriz,NA,jefe sustituto del departament,NA,administrativo,1
+jefea de departamento de control de proyectos,NA,jefea de departament,NA,administrativo,1
+jefea de departamento de vinculacion,NA,jefea de departament,NA,administrativo,1
+jefea departamento educacion continua,NA,jefea departament,NA,administrativo,1
+medica especialista a,NA,medica,NA,profesor,1
+medico a residente do grado,NA,medico,NA,profesor,1
+medico a residente ii,NA,medico,NA,profesor,1
+medico a residente iv,NA,medico,NA,profesor,1
+medico general de la subdireccion de planeacion,NA,medico,NA,profesor,1
+medico residente de cuarto grado,NA,medico,NA,profesor,1
+medico residente de er grado,NA,medico,NA,profesor,1
+medico residente de primer grado,NA,medico,NA,profesor,1
+medico residente de segundo grado,NA,medico,NA,profesor,1
+medico residente de tercer grado,NA,medico,NA,profesor,1
+medicoa general,NA,medico,NA,profesor,1
+medicoa residente cuarto grado,NA,medico,NA,profesor,1
+medicomedica residente de r grado,NA,medico,NA,profesor,1
+persona abogado delegado,NA,abogad,NA,administrativo,1
+persona analista de sistemas escolares,NA,escola,NA,profesor,1
+persona coordinador de rel universidad ind,NA,coordinador,NA,administrativo,1
+persona coordinador de sist aprend indiv,NA,coordinador,NA,administrativo,1
+persona coordinador de tronco interdiv,NA,coordinador,NA,administrativo,1
+persona coordinador de unidad ensenanza ap,NA,coordinador,NA,administrativo,1
+persona medico,NA,medico,NA,profesor,1
+persona secretario de unidad,NA,secreta,NA,administrativo,1
+persona secretario particular,NA,secreta,NA,administrativo,1
+persona tecnico contable,NA,tecnic,NA,tecnico,1
+persona tecnico de laboratorio y taller,NA,tecnic,NA,tecnico,1
+persona titular del departamento de apoyo a la investigacion,tit,inv,titular,investigador,1
+persona titular del departamento de investigacion basica,tit,inv,titular,investigador,1
+personal academico profesional hora clase asociado b,asoc,academi,hora/clase,profesor,1
+personal academico profesional medio tiempo asociado c,asoc,academi,medio tiempo,profesor,1
+personal academico profesional tiempo completo asociado b,asoc,academi,asociado/interino,profesor,1
+prof asignatura a y b,asign,prof,hora/clase,profesor,1
+prof asistente b es del inba tiempo,asist,prof,asistente,profesor,1
+prof asoc a de la division de ingenieria industrial,asoc,prof,asociado/interino,profesor,1
+prof asoc a de la division de ingenieria informatica,asoc,prof,asociado/interino,profesor,1
+prof asoc b de la division de ingenieria en innovacion agricola sustentable,asoc,prof,asociado/interino,profesor,1
+prof carrera es asociado a tc,asoc,prof,asociado/interino,profesor,1
+prof e investig asoc a tc,asoc,prof,asociado/interino,investigador,1
+prof e investig asoc b tc,asoc,prof,asociado/interino,investigador,1
+prof e investigador asoc b,asoc,prof,asociado/interino,investigador,1
+prof ejec de servs esp,NA,prof,NA,profesor,1
+prof en trab soc en a medica a,NA,prof,NA,profesor,1
+prof inv titular a medio tiempo,tit,prof,medio tiempo,investigador,1
+prof trabajo social area med a,NA,prof,NA,profesor,1
+proferor de asignatura,asign,prof,hora/clase,profesor,1
+profesional en carrera ing y disenopr b,NA,prof,NA,profesor,1
+profesionista ac,NA,prof,NA,administrativo,1
+profesionista bc,NA,prof,NA,administrativo,1
+profesionista cc,NA,prof,NA,administrativo,1
+profesionista e fam gn,NA,prof,NA,administrativo,1
+profesor a asociado a c interino,asoc,prof,asociado/interino,profesor,1
+profesor a asociado b con hrs,asoc,prof,hora/clase,profesor,1
+profesor a titular b suplencia,tit,prof,titular,profesor,1
+profesor asignado a,asign,prof,hora/clase,profesor,1
+profesor asignatura en ensenanza superior,asign,prof,hora/clase,profesor,1
+profesor asignatura enssuperior a,asign,prof,hora/clase,profesor,1
+"profesor asignatura,secretario academico de facultad o escuela",asign,prof,hora/clase,profesor,1
+"profesor asignatura,secretario academico de facultad o escuela,soporte academico",asign,prof,hora/clase,profesor,1
+"profesor asignatura,tecnico academico hora laborada,tecnico laboratorista de soporte academico",asign,prof,hora/clase,profesor,1
+profesor asistente,asist,prof,asistente,profesor,1
+profesor asociada a,asoc,prof,asociado/interino,profesor,1
+profesor asociado a df tc,asoc,prof,asociado/interino,profesor,1
+profesor asociado a ems df,asoc,prof,asociado/interino,profesor,1
+profesor asociado a ems for,asoc,prof,asociado/interino,profesor,1
+profesor asociado a es mt for,asoc,prof,medio tiempo,profesor,1
+profesor asociado a interino,asoc,prof,asociado/interino,profesor,1
+profesor asociado asp,asoc,prof,asociado/interino,profesor,1
+profesor asociado b df t,asoc,prof,asociado/interino,profesor,1
+profesor asociado c df tc,asoc,prof,asociado/interino,profesor,1
+profesor asociado c ze ii,asoc,prof,asociado/interino,profesor,1
+profesor asociado de ingles,asoc,prof,asociado/interino,profesor,1
+profesor asociado de mi,asoc,prof,asociado/interino,profesor,1
+profesor asociado iff,asoc,prof,asociado/interino,profesor,1
+profesor asociado mtaut,asoc,prof,medio tiempo,profesor,1
+profesor curso de actualizacion en areas basicas,NA,prof,NA,profesor,1
+profesor curso de ortografia y redaccion,NA,prof,NA,profesor,1
+profesor curso de verano,NA,prof,NA,profesor,1
+profesor de adiestramiento de secundaria tecnica,NA,prof,NA,profesor,1
+profesor de asigantura,NA,prof,hora/clase,profesor,1
+profesor de asignatura tecnico docente a,asign,prof,hora/clase,profesor,1
+profesor de conocer,NA,prof,NA,profesor,1
+profesor de la maestria en finanzas,maest,prof,NA,profesor,1
+profesor de la secretaria academica,NA,prof,NA,profesor,1
+profesor de maestria en finanzas de la facultad de contaduria y administracion,maest,prof,NA,profesor,1
+profesor de tiempo completo de nanotecnologia,NA,prof,carrera,profesor,1
+profesor de tiempo completo ta,NA,prof,carrera,profesor,1
+profesor de tiempo completo titular b,tit,prof,titular,profesor,1
+"profesor de tiempo completo, asociado a",asoc,prof,asociado/interino,profesor,1
+profesor de titular b,tit,prof,titular,profesor,1
+profesor del area de arte y cultura,NA,prof,NA,profesor,1
+profesor diplomado en medios de defensa fiscal,NA,prof,medio tiempo,profesor,1
+profesor encargado con funciones de tiempo completo nivel a,NA,prof,carrera,profesor,1
+profesor huesped nivel i,NA,prof,NA,profesor,1
+profesor por experiencia zona centro y sur,NA,prof,NA,profesor,1
+profesor tc titular a,tit,prof,titular,profesor,1
+profesor tc titular c,tit,prof,titular,profesor,1
+profesor tecnico asociado a df tc,asoc,prof,asociado/interino,profesor,1
+profesor tiempo parcial c,NA,prof,hora/clase,profesor,1
+profesor titular a ems mt for,tit,prof,medio tiempo,profesor,1
+profesor titular a ze iii,tit,prof,titular,profesor,1
+profesor titular b df t,tit,prof,titular,profesor,1
+profesor titular b ems tc for,tit,prof,titular,profesor,1
+profesor titular b es for,tit,prof,titular,profesor,1
+profesor titular c df t,tit,prof,titular,profesor,1
+profesor titular c ems tc for,tit,prof,titular,profesor,1
+profesor tutor,NA,prof,NA,profesor,1
+profesora asignada a,asign,prof,hora/clase,profesor,1
+profesora asignatura b ems for,asign,prof,hora/clase,profesor,1
+"profesora asignatura,soporte academica,tecnica academica hora laborada",asign,prof,hora/clase,profesor,1
+"profesora asignatura,subcoordinadora",asign,prof,hora/clase,profesor,1
+"profesora asignatura,tecnica academica hora laborada,tecnica laboratorista de soporte academico",asign,prof,hora/clase,profesor,1
+profesora asociada a ems tc for,asoc,prof,asociado/interino,profesor,1
+profesora asociada a es mt df,asoc,prof,medio tiempo,profesor,1
+profesora asociada a es tc df,asoc,prof,asociado/interino,profesor,1
+profesora asociada b df t,asoc,prof,asociado/interino,profesor,1
+profesora asociada b df tc,asoc,prof,asociado/interino,profesor,1
+profesora asociado a ems mt for,asoc,prof,medio tiempo,profesor,1
+profesora asociado a ems tc for,asoc,prof,asociado/interino,profesor,1
+profesora asociado a es for,asoc,prof,asociado/interino,profesor,1
+profesora asociado b df t,asoc,prof,asociado/interino,profesor,1
+profesora asociado b ems mt df,asoc,prof,medio tiempo,profesor,1
+profesora asociado b ems tc df,asoc,prof,asociado/interino,profesor,1
+profesora asociado c df tc,asoc,prof,asociado/interino,profesor,1
+profesora asociado c ems df,asoc,prof,asociado/interino,profesor,1
+profesora asociado c es df,asoc,prof,asociado/interino,profesor,1
+profesora de asignatura c,asign,prof,hora/clase,profesor,1
+profesora de tiempo completo ac,NA,prof,carrera,profesor,1
+profesora de tiempo completo c,NA,prof,carrera,profesor,1
+profesora de tiempo completo d,NA,prof,carrera,profesor,1
+profesora de tiempo completo tb,NA,prof,carrera,profesor,1
+profesora de tiempo completo tc,NA,prof,carrera,profesor,1
+profesora investigadora de medio tiempo,NA,prof,medio tiempo,investigador,1
+profesora maestria en gestion de la mercadotecnia de la facultad de contaduria y administracion,maest,prof,NA,profesor,1
+profesora tecnico titular a df tc,tit,prof,titular,profesor,1
+profesora tiempo completo c,NA,prof,carrera,profesor,1
+profesora tiempo completo d,NA,prof,carrera,profesor,1
+profesora titular a ems for,tit,prof,titular,profesor,1
+profesora titular a ems tc df,tit,prof,titular,profesor,1
+profesora titular a es df,tit,prof,titular,profesor,1
+profesora titular a es for,tit,prof,titular,profesor,1
+profesora titular b ems for,tit,prof,titular,profesor,1
+profesora titular b ems mt for,tit,prof,medio tiempo,profesor,1
+profesora titular c ems for,tit,prof,titular,profesor,1
+profesora titular c ems tc for,tit,prof,titular,profesor,1
+profesora titular c es df,tit,prof,titular,profesor,1
+profesora titular c es mt df,tit,prof,medio tiempo,profesor,1
+profesora visitante de tiempo completo,NA,prof,carrera,profesor,1
+profr asig a de la division de ingenieria en gestion empresarial,NA,prof,hora/clase,profesor,1
+profr asig a de la division de ingenieria mecanica,NA,prof,hora/clase,profesor,1
+profr asig b de la division de ingenieria en industrias alimentarias,NA,prof,hora/clase,profesor,1
+profr asig b de la division de ingenieria industrial,NA,prof,hora/clase,profesor,1
+profx asocx b,asoc,prof,asociado/interino,profesor,1
+ptc asociada b,asoc,ptc,asociado/interino,profesor,1
+ptc titular a de mecatronica,tit,ptc,titular,profesor,1
+ptc titular a de tecnologias de la informacion,tit,ptc,titular,profesor,1
+ptc titular b de mecanica,tit,ptc,titular,profesor,1
+"realiza labores academicas de docencia yo de investigacion y de formacion de personal academico especializado en su disciplina, y colabora con el titular en labores academicas",tit,academi,titular,investigador,1
+representante de direccion de programa academico,NA,academi,NA,profesor,1
+representante de secretaria academica,NA,secreta,NA,administrativo,1
+responsable general de bibliotecas,NA,biblio,NA,tecnico,1
+secreatario academico,NA,academi,NA,funcionario,1
+secretaria administrativa,NA,secreta,NA,administrativo,1
+secretaria area academica,NA,secreta,NA,profesor,1
+secretaria auxiliar c,NA,secreta,asistente,administrativo,1
+secretaria de director general,NA,secreta,NA,administrativo,1
+secretaria de jefe de departamento en la subdireccion de planeacion y vinculacion,NA,secreta,NA,administrativo,1
+secretaria del rector,NA,secreta,NA,administrativo,1
+secretaria ejecutiva bilingue b,NA,secreta,NA,administrativo,1
+secretaria jefe de depto,NA,secreta,NA,administrativo,1
+secretaria jefe de unidad,NA,secreta,NA,administrativo,1
+secretaria rector,NA,secreta,NA,administrativo,1
+secretariao a,NA,secreta,NA,administrativo,1
+secretariao de jefea de depto incluyente y no sexista,NA,secreta,NA,administrativo,1
+secretario a de escuela o facultad,NA,secreta,NA,administrativo,1
+secretario a de extension y vinculacion,NA,secreta,NA,administrativo,1
+secretario academico de division,NA,secreta,NA,funcionario,1
+secretario academico de escuela,NA,secreta,NA,funcionario,1
+secretario academico de instituto,NA,secreta,NA,funcionario,1
+secretario de departamento,NA,secreta,NA,administrativo,1
+secretario de direccion,NA,secreta,NA,administrativo,1
+secretario de facultad,NA,secreta,NA,funcionario,1
+secretario de planeacion e innovacion aereoespacial,NA,secreta,NA,funcionario,1
+secretario de planeacion e innovacion aeroespacial,NA,secreta,NA,funcionario,1
+secretario de subdirector,NA,secreta,NA,administrativo,1
+secretario de trabajo y conflictos,NA,secreta,NA,administrativo,1
+secretario ejecutivo a,NA,secreta,NA,administrativo,1
+secretario ejecutivo adjunto,NA,secreta,NA,administrativo,1
+secretario jefe departamento,NA,secreta,NA,administrativo,1
+secretario privado del rector,NA,secreta,NA,administrativo,1
+secretarioa de directora de area,NA,secreta,NA,administrativo,1
+secretarioa general de acuerdos,NA,secreta,NA,administrativo,1
+secretarioa particular,NA,secreta,NA,administrativo,1
+servicio de asesoria y consultoria cedene de la facultad de contaduria y administracion,NA,adminis,NA,administrativo,1
+servicios profesionales medicos,NA,prof,NA,administrativo,1
+sria jefe departamento,NA,jefe departament,NA,administrativo,1
+sria jefe departamento de la division de ingenieria informatica,NA,jefe departament,NA,administrativo,1
+sria jefe departamento de mecanica,NA,jefe departament,NA,administrativo,1
+sub director,NA,director,NA,funcionario,1
+sub jefe educacion e invest enf,NA,inv,NA,investigador,1
+subcoordinador nivel a tiempo completo funcionario,NA,coordinador,NA,administrativo,1
+subd de investigacion y posgrado,NA,inv,NA,investigador,1
+subdirec de vincul emprend y proc de fon,NA,subdire,NA,funcionario,1
+subdireccion academica,NA,subdire,NA,funcionario,1
+subdireccion de area b plaza eventual,NA,subdire,hora/clase,administrativo,1
+subdireccion de area c plaza eventual,NA,subdire,hora/clase,administrativo,1
+subdireccion de area f plaza eventual,NA,subdire,hora/clase,administrativo,1
+subdireccion de desarrollo del personal academico,NA,subdire,NA,funcionario,1
+subdireccion de investigacion,NA,subdire,NA,funcionario,1
+subdireccion de planeacion,NA,subdire,NA,administrativo,1
+subdireccion de planes y programas de estudio,NA,subdire,NA,funcionario,1
+subdireccion de procesos alimentarios,NA,subdire,NA,administrativo,1
+subdireccion de seguimiento institucional,NA,subdire,NA,administrativo,1
+subdireccion de vinculacion emprendimiento y proc de fond,NA,subdire,NA,administrativo,1
+subdirector a academico a,NA,subdire,NA,funcionario,1
+subdirector a de area c,NA,subdire,NA,administrativo,1
+subdirector a de carrera,NA,subdire,NA,funcionario,1
+subdirector ade carrera,NA,subdire,NA,funcionario,1
+subdirector area,NA,subdire,NA,administrativo,1
+subdirector de acompanamiento y seguimiento en la licenciatura de medico cirujano,NA,subdire,NA,funcionario,1
+subdirector de acuacultura del atlantico,NA,subdire,NA,administrativo,1
+subdirector de analisis de la oferta de servicios ambientales hidrologicos y adaptacion al cambio climatico,NA,subdire,NA,administrativo,1
+subdirector de analisis e integracion de informacion cientificotecnica,NA,subdire,NA,funcionario,1
+subdirector de area de centro de informacion y documentacion cientifica,NA,subdire,NA,administrativo,1
+subdirector de area de servicios admnistrativos,NA,subdire,NA,administrativo,1
+subdirector de area subdirectora de area,NA,subdire,NA,administrativo,1
+subdirector de atencion medica de neumologia,NA,subdire,NA,funcionario,1
+subdirector de carrera,NA,subdire,NA,funcionario,1
+subdirector de cenlex,NA,subdire,NA,administrativo,1
+subdirector de centro de difusion de ciencia y tecnologia,NA,subdire,NA,administrativo,1
+subdirector de centro de educacion artistica,NA,subdire,NA,funcionario,1
+subdirector de centro de investigacion artistica,NA,subdire,NA,funcionario,1
+subdirector de conservacion de especies y sus habitat para la adaptacion al cambio climatico,NA,subdire,NA,administrativo,1
+subdirector de evaluacion,NA,subdire,NA,administrativo,1
+subdirector de investigacion,NA,subdire,NA,funcionario,1
+subdirector de la direccion de comunicacion,NA,subdire,NA,funcionario,1
+subdirector de manejo de recursos pesqueros en el atlantico,NA,subdire,NA,administrativo,1
+"subdirector de medicion, reporte y verificacion",NA,subdire,NA,administrativo,1
+subdirector de planeacion de evaluaciones,NA,subdire,NA,administrativo,1
+subdirector de planeacion y evaluacion,NA,subdire,NA,administrativo,1
+subdirector de prospectivas de emisiones de gases y compuestos de efecto invernadero,NA,subdire,NA,administrativo,1
+subdirector de servicios auxiliares de diagnostico y paramedicos,NA,subdire,NA,administrativo,1
+subdirector de vinculacion,NA,subdire,NA,administrativo,1
+"subdirector de vinculacion, emprendendedurismo y procuracion de fondos",NA,subdire,NA,administrativo,1
+subdirector regional de radio,NA,subdire,NA,administrativo,1
+subdirectora de analisis de la demanda de servicios ambientales hidrologicos y adaptacion al cambio climatico,NA,subdire,NA,administrativo,1
+subdirectora de analisis de la oferta de servicios ambientales hidrologicos y adaptacion al cambio climatico,NA,subdire,NA,administrativo,1
+subdirectora de bioinformatica,NA,subdire,NA,funcionario,1
+subdirectora de conservacion de especies y sus habitat para la adaptacion al cambio climatico,NA,subdire,NA,administrativo,1
+subdirectora de desarrollo de negocios,NA,subdire,NA,funcionario,1
+subdirectora de economia industrial y de la energia,NA,subdire,NA,funcionario,1
+subdirectora de educacion continua y a distancia,NA,subdire,NA,funcionario,1
+subdirectora de genomica poblacional,NA,subdire,NA,funcionario,1
+subdirectora de informacion y documentacion,NA,subdire,NA,funcionario,1
+subdirectora de instrumentos economicos para el crecimiento verde,NA,subdire,NA,funcionario,1
+subdirectora de investigacion y postgrado,NA,subdire,NA,funcionario,1
+subdirectora de proyectos y eventos internacionales,NA,subdire,NA,funcionario,1
+subdirectora de relaciones industriales,NA,subdire,NA,funcionario,1
+subdirectora de servicios escolares,NA,subdire,NA,funcionario,1
+subdirectora de vinculacion,NA,subdire,NA,funcionario,1
+subdirectora or,NA,subdire,NA,administrativo,1
+subgerentea de gestion y seguimiento administrativo,NA,adminis,NA,administrativo,1
+subjefe a de educacion e investigacion en enfermeria,NA,inv,NA,investigador,1
+subjefe de educ e inv en enf,NA,inv,NA,investigador,1
+subjefe de educacion e investigacion en enfermeria,NA,inv,NA,investigador,1
+subsecretario general academico,NA,secreta,NA,funcionario,1
+sup prof trab soc area medic c,NA,prof,NA,administrativo,1
+supervisor a tecnico a,NA,tecnic,NA,tecnico,1
+"supervisor tecnico,tecnico academico hora laborada",NA,tecnic,hora/clase,tecnico,1
+supervisora or profesional en trabajo social c,NA,prof,NA,administrativo,1
+"supervisora tecnica,tecnica academica hora laborada",NA,tecnic,hora/clase,tecnico,1
+supervisoraor profesional en trabajo social c,NA,prof,NA,administrativo,1
+tecnica academica c,NA,tecnic,NA,tecnico,1
+tecnica docente asignatura a,asign,tecnic,hora/clase,tecnico,1
+tecnica docente asignatura b es df,asign,tecnic,hora/clase,tecnico,1
+tecnica docente asignatura c ems df,asign,tecnic,hora/clase,tecnico,1
+tecnica docente asociado a es tc for,asoc,tecnic,asociado/interino,tecnico,1
+tecnica docente asociado c es tc for,asoc,tecnic,asociado/interino,tecnico,1
+tecnica docente auxiliar b es tc df,NA,tecnic,asistente,tecnico,1
+tecnica en artes,NA,tecnic,NA,tecnico,1
+tecnica especializado de laboratorio a,NA,tecnic,NA,tecnico,1
+tecnica laboratorista,NA,tecnic,NA,tecnico,1
+tecnica titular b es tc for,tit,tecnic,titular,tecnico,1
+tecnico a academico a a interino,NA,tecnic,NA,tecnico,1
+tecnico a academico a suplente,NA,tecnic,NA,tecnico,1
+tecnico a academico c,NA,tecnic,NA,tecnico,1
+tecnico a especializado,NA,tecnic,NA,tecnico,1
+tecnico a laboratorista a,NA,tecnic,NA,tecnico,1
+tecnico a radiologo a,NA,tecnic,NA,tecnico,1
+tecnico academico asociado,asoc,tecnic,asociado/interino,tecnico,1
+tecnico academico hora clase de asociado a,asoc,tecnic,hora/clase,tecnico,1
+tecnico academico interino,NA,tecnic,NA,tecnico,1
+tecnico academicoa a,NA,tecnic,NA,tecnico,1
+tecnico academicoadministrativo,NA,tecnic,NA,tecnico,1
+tecnico administrativo a,NA,tecnic,NA,tecnico,1
+tecnico asociado c,asoc,tecnic,asociado/interino,tecnico,1
+tecnico audivisual,NA,tecnic,NA,tecnico,1
+tecnico bibliotecario espec,NA,tecnic,NA,tecnico,1
+tecnico bibliotecario especializado,NA,tecnic,NA,tecnico,1
+tecnico contable,NA,tecnic,NA,tecnico,1
+tecnico de equipos opticos y de grabacion c incluyente y no sexista,NA,tecnic,NA,tecnico,1
+tecnico de servicio,NA,tecnic,NA,tecnico,1
+tecnico de soporte del sistema de computo,NA,tecnic,NA,tecnico,1
+tecnico docente a del departamento de personal,NA,tecnic,NA,tecnico,1
+tecnico docente asignatura b es df,asign,tecnic,hora/clase,tecnico,1
+tecnico docente asociado a ems mt df,asoc,tecnic,medio tiempo,tecnico,1
+tecnico docente asociado a es df,asoc,tecnic,asociado/interino,tecnico,1
+tecnico docente asociado c ems mt df,asoc,tecnic,medio tiempo,tecnico,1
+tecnico docente auxiliar c es tc df,NA,tecnic,asistente,tecnico,1
+tecnico electronico b,NA,tecnic,NA,tecnico,1
+tecnico en artes,NA,tecnic,NA,tecnico,1
+tecnico en botanica,NA,tecnic,NA,tecnico,1
+tecnico en electronica a,NA,tecnic,NA,tecnico,1
+tecnico en herr y dispositivospr b,NA,tecnic,NA,tecnico,1
+tecnico en herry dispositivospr b,NA,tecnic,NA,tecnico,1
+tecnico en instalaciones,NA,tecnic,NA,tecnico,1
+tecnico en instrumentacion,NA,tecnic,NA,tecnico,1
+tecnico en montaje museografico,NA,tecnic,NA,tecnico,1
+tecnico en organismos geneticamente modificados,NA,tecnic,NA,tecnico,1
+tecnico en programacion y equipos informaticos b,NA,tecnic,NA,tecnico,1
+tecnico en seguridad radiologica a,NA,tecnic,NA,tecnico,1
+tecnico en teleinformatica,NA,tecnic,NA,tecnico,1
+tecnico en verificacion dictaminador o saneam b,NA,tecnic,NA,tecnico,1
+tecnico especializado b,NA,tecnic,NA,tecnico,1
+tecnico especializado en salud,NA,tecnic,NA,tecnico,1
+tecnico fisico b,NA,tecnic,NA,tecnico,1
+tecnico fisico c,NA,tecnic,NA,tecnico,1
+tecnico histopatologo,NA,tecnic,NA,tecnico,1
+tecnico impresor,NA,tecnic,NA,tecnico,1
+tecnico lab de bioterio,NA,tecnic,NA,tecnico,1
+tecnico laboratorista de biot,NA,tecnic,NA,tecnico,1
+tecnico medio especializado agropecuario y silvicultor,NA,tecnic,medio tiempo,tecnico,1
+tecnico profesional,NA,tecnic,NA,tecnico,1
+tecnico profesional a,NA,tecnic,NA,tecnico,1
+tecnico quimico a,NA,tecnic,NA,tecnico,1
+tecnicoa bibliotecarioa incluyente y no sexista,NA,tecnic,NA,tecnico,1
+tecnicoa en informatica,NA,tecnic,NA,tecnico,1
+tecnicoa en seguridad radiologica a,NA,tecnic,NA,tecnico,1
+tecnicoa en seguridad radiologica b,NA,tecnic,NA,tecnico,1
+tecnicoa en sistemas,NA,tecnic,NA,tecnico,1
+tecnicoa fisicoa b,NA,tecnic,NA,tecnico,1
+tecnicoa fisicoa c,NA,tecnic,NA,tecnico,1
+tecnicta titular c,tit,tecnic,titular,tecnico,1
+vicerrector academico,NA,academi,NA,funcionario,1
